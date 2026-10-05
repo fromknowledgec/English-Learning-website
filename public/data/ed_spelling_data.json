@@ -1,0 +1,105 @@
+{
+  "moduleName": "-ed读音及拼写",
+  "knowledgePoints": [
+    {
+      "id": 1,
+      "title": "一、拼写规则",
+      "content": "规则动词的过去式和过去分词的拼写规则：",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "一般情况下直接加ed",
+          "content": "worked, helped, wanted, needed"
+        },
+        {
+          "id": 2,
+          "title": "以e结尾的动词加d",
+          "content": "lived, hoped, changed, decided"
+        },
+        {
+          "id": 3,
+          "title": "以辅音字母加y结尾的动词",
+          "content": "先把y改成i再加ed。但以元音字母加y结尾直接加ed。\nstudy- studied, carry- carried, copy- copied\nplay- played, obey- obeyed, destroy- destroyed"
+        },
+        {
+          "id": 4,
+          "title": "以一个辅音字母结尾的重读闭音节动词",
+          "content": "先双写这个辅音字母再加ed。\nplan-planned, stop- stopped, prefer- preferred, infer- inferred\nadmit–admitted, ban- banned, beg- begged, hug- hugged"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "二、读音规则",
+      "content": "规则动词的过去式和过去分词的读音规则：",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "/t/",
+          "content": "以清辅音结尾，ed读作/t/\nembarrassed, wished, watched, shocked, laughed"
+        },
+        {
+          "id": 2,
+          "title": "/d/",
+          "content": "以浊辅音或元音结尾，ed读作/d/\n begged, breathed, described, learned, reserved, viewed, poured"
+        },
+        {
+          "id": 3,
+          "title": "/ɪd/",
+          "content": "以/t/或/d/结尾，ed读作/ɪd/\nconcentrated, debated, depended, pretended"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "He said that the project ________ (complete) soon.",
+      "type": "fill",
+      "correctAnswer": "would be completed",
+      "explanation": "一般过去将来时的被动语态"
+    },
+    {
+      "id": 2,
+      "question": "They ___________ (inform) to come on time last night.",
+      "type": "fill",
+      "correctAnswer": "were informed",
+      "explanation": "一般过去时的被动语态，以e结尾加d"
+    },
+    {
+      "id": 3,
+      "question": "Lady Meng Jiang's husband __________ (force) to build the Great Wall just three days after they got married.",
+      "type": "fill",
+      "correctAnswer": "was forced",
+      "explanation": "一般过去时的被动语态，以e结尾加d"
+    },
+    {
+      "id": 4,
+      "question": "She ___________ (carry) on working even though she was feeling tired.",
+      "type": "fill",
+      "correctAnswer": "carried",
+      "explanation": "一般过去时，以辅音字母+y结尾，变y为i加ed"
+    },
+    {
+      "id": 5,
+      "question": "In the past few decades, eBooks __________ (develop) dramatically.",
+      "type": "fill",
+      "correctAnswer": "have developed",
+      "explanation": "现在完成时，以辅音字母结尾，以辅音字母+y结尾，变y为i加ed"
+    },
+    {
+      "id": 6,
+      "question": "He __________ (refer) to the watch and announced it was time to leave.",
+      "type": "fill",
+      "correctAnswer": "referred",
+      "explanation": "一般过去时，以重读闭音节结尾，双写r加ed"
+    },
+    {
+      "id": 7,
+      "question": "She has greatly __________ (benefit) from the training program.",
+      "type": "fill",
+      "correctAnswer": "benefited",
+      "explanation": "现在完成时，以fit结尾，双写t加ed"
+    }
+  ]
+}

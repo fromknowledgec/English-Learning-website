@@ -1,0 +1,183 @@
+{
+  "moduleName": "英式英语与美式英语的区别",
+  "knowledgePoints": [
+    {
+      "id": 1,
+      "title": "一、拼写区别",
+      "content": "美国人更注重实用性，因此美式英语的拼写比英式英语更简洁。",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "不发音的词尾-me, -ue",
+          "content": "kilogramme (Br) → kilogram (Am)\nprogramme (Br) → program (Am)\ncatalogue (Br) → catalog (Am)\ndialogue (Br) → dialog (Am)"
+        },
+        {
+          "id": 2,
+          "title": "以-our结尾",
+          "content": "colour (Br) → color (Am)\nbehaviour (Br) → behavior (Am)\nfavour (Br) → favor (Am)\nflavour (Br) → flavor (Am)\nhonour (Br) → honor (Am)\nlabor (Br) → labor (Am)"
+        },
+        {
+          "id": 3,
+          "title": "以-re结尾，读音为[ə:]",
+          "content": "centre (Br) → center (Am)\nfibre (Br) → fiber (Am)\nmetre (Br) → meter (Am)\ntheatre (Br) → theater (Am)"
+        },
+        {
+          "id": 4,
+          "title": "以-ence为结尾",
+          "content": "defence (Br) → defense (Am)\noffence (Br) → offense (Am)\nlicence (Br) → license (Am)\npretence (Br) → pretense (Am)"
+        },
+        {
+          "id": 5,
+          "title": "以-ise结尾的动词",
+          "content": "criticise (Br) → criticize (Am)\norganise (Br) → organize (Am)\nrealise (Br) → realize (Am)\nrecognise (Br) → recognize (Am)\nstandardise (Br) → standardize (Am)"
+        },
+        {
+          "id": 6,
+          "title": "双写-ll-拼写",
+          "content": "councillor (Br) → councilor (Am)\ntravelling (Br) → traveling (Am)\nmarvellous (Br) → marvelous (Am)"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "二、同词异义",
+      "content": "同一个词在英语和美语中可能指不一样的东西",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "biscuit",
+          "content": "英式：软饼、饼干\n美式：苏打饼干"
+        },
+        {
+          "id": 2,
+          "title": "corn",
+          "content": "英式：谷物、小麦\n美式：玉米"
+        },
+        {
+          "id": 3,
+          "title": "first floor",
+          "content": "英式：二层\n美式：一层"
+        },
+        {
+          "id": 4,
+          "title": "football",
+          "content": "英式：足球\n美式：橄榄球"
+        },
+        {
+          "id": 5,
+          "title": "pants",
+          "content": "英式：内裤\n美式：长裤"
+        },
+        {
+          "id": 6,
+          "title": "purse",
+          "content": "英式：妇女的小包\n美式：手提包"
+        },
+        {
+          "id": 7,
+          "title": "billion",
+          "content": "英式：兆\n美式：百万兆"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "三、同义异词",
+      "content": "同一个意思，在英语和美语中分别用不同的词语",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "出租车",
+          "content": "cab (Am) / taxi (Br)"
+        },
+        {
+          "id": 2,
+          "title": "大货车",
+          "content": "truck (Am) / lorry (Br)"
+        },
+        {
+          "id": 3,
+          "title": "地铁",
+          "content": "subway (Am) / underground/Tube (Br)"
+        },
+        {
+          "id": 4,
+          "title": "电梯",
+          "content": "elevator (Am) / lift (Br)"
+        },
+        {
+          "id": 5,
+          "title": "电影",
+          "content": "movie (Am) / film (Br)"
+        },
+        {
+          "id": 6,
+          "title": "二楼",
+          "content": "2nd floor (Am) / 1st floor (Br)"
+        },
+        {
+          "id": 7,
+          "title": "高速公路",
+          "content": "freeway (Am) / motorway (Br)"
+        },
+        {
+          "id": 8,
+          "title": "公寓",
+          "content": "apartment (Am) / flat (Br)"
+        },
+        {
+          "id": 9,
+          "title": "股票",
+          "content": "stock (Am) / shares (Br)"
+        },
+        {
+          "id": 10,
+          "title": "罐头",
+          "content": "can (Am) / tin (Br)"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "英式英语中的 'colour' 在美式英语中写作 ______",
+      "type": "choice",
+      "options": ["color", "coler", "collor", "colour"],
+      "correctAnswer": "color",
+      "explanation": "美式英语中省略了u"
+    },
+    {
+      "id": 2,
+      "question": "美式英语中的 'elevator' 在英式英语中是 ______",
+      "type": "choice",
+      "options": ["escalator", "lift", "stairs", "elevator"],
+      "correctAnswer": "lift",
+      "explanation": "英式英语用lift表示电梯"
+    },
+    {
+      "id": 3,
+      "question": "在英式英语中，'first floor' 指的是 ______",
+      "type": "choice",
+      "options": ["一楼", "二楼", "地下室", "顶楼"],
+      "correctAnswer": "二楼",
+      "explanation": "英式英语的一楼是ground floor，二楼是first floor"
+    },
+    {
+      "id": 4,
+      "question": "美式英语中的 'movie theater' 对应的英式英语是 ______",
+      "type": "choice",
+      "options": ["film house", "cinema", "theater", "picture house"],
+      "correctAnswer": "cinema",
+      "explanation": "英式英语用cinema表示电影院"
+    },
+    {
+      "id": 5,
+      "question": "英式英语 'trousers' 在美式英语中是 ______",
+      "type": "choice",
+      "options": ["pants", "shorts", "jeans", "trousers"],
+      "correctAnswer": "pants",
+      "explanation": "美式英语用pants表示长裤"
+    }
+  ]
+}

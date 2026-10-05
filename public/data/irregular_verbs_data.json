@@ -1,0 +1,126 @@
+{
+  "moduleName": "不规则动词变化考查",
+  "knowledgePoints": [
+    {
+      "id": 1,
+      "title": "一、常见不规则动词变化",
+      "content": "不规则动词的变化形式需要记忆，分为几种类型：",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "AAA型（原形、过去式、过去分词相同）",
+          "content": "cut-cut-cut, put-put-put, let-let-let, hit-hit-hit, set-set-set, cost-cost-cost, hurt-hurt-hurt"
+        },
+        {
+          "id": 2,
+          "title": "ABB型（过去式和过去分词相同）",
+          "content": "buy-bought-bought, bring-brought-brought, think-thought-thought, catch-caught-caught, teach-taught-taught, fight-fought-fought"
+        },
+        {
+          "id": 3,
+          "title": "ABA型（原形和过去分词相同）",
+          "content": "come-came-come, become-became-become, run-ran-run"
+        },
+        {
+          "id": 4,
+          "title": "ABC型（三种形式都不相同）",
+          "content": "go-went-gone, do-did-done, see-saw-seen, eat-ate-eaten, give-gave-given, take-took-taken"
+        },
+        {
+          "id": 5,
+          "title": "AB型和ABC型特殊情况",
+          "content": "lie-lay-lain（躺）, lay-laid-laid（放）, lie-lied-lied（说谎）\nsink-sank-sunk, drink-drank-drunk\nbegin-began-begun, ring-rang-rung\nswim-swam-swum, sing-sang-sung"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "二、重点不规则动词",
+      "content": "需要特别注意的不规则动词：",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "容易混淆的动词",
+          "content": "fall-fell-fallen（落下）, feel-felt-felt（感觉）\nfind-found-found（发现）, found-founded-founded（建立）\nwind-wound-wound（缠绕）, wound-wounded-wounded（受伤）"
+        },
+        {
+          "id": 2,
+          "title": "特殊变化",
+          "content": "choose-chose-chosen, freeze-froze-frozen\nspeak-spoke-spoken, steal-stole-stolen\ntear-tore-torn, wear-wore-worn\nfly-flew-flown, grow-grew-grown\nknow-knew-known, throw-threw-thrown\nwrite-wrote-written, drive-drove-driven\nrise-rose-risen, arise-arose-arisen"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "By the time we arrived, the meeting had already ___________ (begin).",
+      "type": "fill",
+      "correctAnswer": "begun",
+      "explanation": "begin是不规则动词，变化为begin-began-begun"
+    },
+    {
+      "id": 2,
+      "question": "She ___________ (swim) across the river yesterday and felt exhausted.",
+      "type": "fill",
+      "correctAnswer": "swam",
+      "explanation": "swim是不规则动词，过去式是swam"
+    },
+    {
+      "id": 3,
+      "question": "The children ___________ (hide) behind the tree before the teacher saw them.",
+      "type": "fill",
+      "correctAnswer": "had hidden",
+      "explanation": "hide是不规则动词，过去分词是hidden"
+    },
+    {
+      "id": 4,
+      "question": "The letter ___________ (write) in French needs to be translated.",
+      "type": "fill",
+      "correctAnswer": "written",
+      "explanation": "write是不规则动词，过去分词是written"
+    },
+    {
+      "id": 5,
+      "question": "The ancient vase was ___________ (break) into pieces during the earthquake.",
+      "type": "fill",
+      "correctAnswer": "broken",
+      "explanation": "break是不规则动词，过去分词是broken"
+    },
+    {
+      "id": 6,
+      "question": "He ___________ (choose) to stay home instead of attending the party.",
+      "type": "fill",
+      "correctAnswer": "chose",
+      "explanation": "choose是不规则动词，过去式是chose"
+    },
+    {
+      "id": 7,
+      "question": "The thief ___________ (steal) the painting before the guards noticed.",
+      "type": "fill",
+      "correctAnswer": "had stolen",
+      "explanation": "steal是不规则动词，过去分词是stolen"
+    },
+    {
+      "id": 8,
+      "question": "The song ___________ (sing) by the choir moved everyone to tears.",
+      "type": "fill",
+      "correctAnswer": "sung",
+      "explanation": "sing是不规则动词，过去分词是sung"
+    },
+    {
+      "id": 9,
+      "question": "She has ___________ (wear) the same dress to three events this month.",
+      "type": "fill",
+      "correctAnswer": "worn",
+      "explanation": "wear是不规则动词，过去分词是worn"
+    },
+    {
+      "id": 10,
+      "question": "The bridge ___________ (build) last year can withstand heavy storms.",
+      "type": "fill",
+      "correctAnswer": "built",
+      "explanation": "build是不规则动词，过去式是built"
+    }
+  ]
+}

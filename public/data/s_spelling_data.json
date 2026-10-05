@@ -1,0 +1,141 @@
+{
+  "moduleName": "-s的读音及拼写",
+  "knowledgePoints": [
+    {
+      "id": 1,
+      "title": "一、读音规则",
+      "content": "在英语中，后缀-s的读音及拼写规则主要取决于它所附加单词的最后一个音素。具体如下：",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "[s]音",
+          "content": "当单词以清辅音（[p], [t], [k], [f], [θ]）结尾时，-s读作[s]。如：\n- cats [kæts]\n- books [bʊks]\n- laughs [læfs]\n- paths [pæθs]"
+        },
+        {
+          "id": 2,
+          "title": "[z]音",
+          "content": "当单词以浊辅音（[b], [d], [g], [v], [ð], [m], [n], [ŋ], [l], [r]）或元音（[ɑː], [ɔː], [ɜː], [iː], [uː], [ɪ], [e], [æ], [ʊ], [ə], [eɪ], [aɪ], [ɔɪ], [aʊ], [əʊ]）结尾时，-s读作[z]。如：\n- dogs [dɒɡz]\n- cars [kɑːrz]\n- boys [bɔɪz]\n- trees [triːz]"
+        },
+        {
+          "id": 3,
+          "title": "[ɪz]音",
+          "content": "当单词以咝音或破擦音（[s], [z], [ʃ], [ʒ], [tʃ], [dʒ]）结尾时，-s读作[ɪz]。如：\n- buses [ˈbʌsɪz]\n- boxes [ˈbɒksɪz]\n- dishes [ˈdɪʃɪz]\n- churches [ˈtʃɜːrtʃɪz]"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "二、拼写规则",
+      "content": "",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "直接加-s",
+          "content": "大多数情况下，直接在单词末尾加-s。如：\nbook → books，dog → dogs，day → days，like → likes"
+        },
+        {
+          "id": 2,
+          "title": "加-es",
+          "content": "当单词以-s, -sh, -ch, -x, -z结尾时，加-es。如：\nbus → buses，dish → dishes，watch → watches，box → boxes，buzz → buzzes\n例外：stomach → stomachs"
+        },
+        {
+          "id": 3,
+          "title": "以y结尾的单词",
+          "content": "当单词以\"辅音字母+ y\"结尾时，变y为i，再加 -es。如：\nbaby → babies，city → cities，lady → ladies，family → families，carry → carries\n当单词以\"元音字母+y\"结尾时，直接在词尾加-s。如：\nboy → boys，toy → toys"
+        },
+        {
+          "id": 4,
+          "title": "以o结尾的单词",
+          "content": "当单词以\"元音字母+ o\"结尾时，直接在词尾加-s。如：\nradio → radios，zoo → zoos\n当单词以\"辅音字母+ o\"结尾时，通常加-es。如：\ntomato → tomatoes，potato → potatoes，hero → heroes\n例外：photo → photos，piano → pianos，kilo → kilos"
+        },
+        {
+          "id": 5,
+          "title": "以-f或-fe结尾的单词",
+          "content": "大多数单词需要将-f或-fe变为-v，然后加-es。如：\nleaf → leaves，knife → knives，wolf → wolves，wife → wives，half → halves\n例外：roof → roofs，belief → beliefs，chef → chefs，proof → proofs，chief → chiefs\n两种形式均可，如：scarf → scarves或scarfs，wharf → wharves或wharfs"
+        },
+        {
+          "id": 6,
+          "title": "不规则变化的名词",
+          "content": "man → men，woman → women，Englishman → Englishmen，Frenchman → Frenchmen\nfoot → feet，tooth → teeth，goose → geese，mouse → mice\nanalysis → analyses，basis → bases，crisis → crises\nchild → children，ox → oxen\nbacterium →bacteria，criterion → criteria，medium → media，phenomenon → phenomena\nsheep → sheep，deer → deer，fish(鱼) → fish，bison(野牛) → bison，species → species，series → series，means → means，aircraft → aircraft，Chinese → Chinese，Japanese → Japanese，Swiss → Swiss"
+        },
+        {
+          "id": 7,
+          "title": "三、合成名词的复数",
+          "content": "一般将中心名词变复数，如：\ngirl friend → girl friends，passer-by → passers-by，son-in-law → sons-in-law\n没有中心名词，则最后一个词变复数，如：\ngrown-up → grown-ups\nman和woman +名词组成的合成名词，两个词都变复数，如：\nman doctor → men doctors，woman driver → women drivers"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "Dancing and skating are my __________ (hobby), and I also like to read short __________ (story).",
+      "type": "fill",
+      "correctAnswer": "hobbies, stories",
+      "explanation": "hobby以辅音字母+y结尾，变y为i加es；story也是以辅音字母+y结尾，变y为i加es。"
+    },
+    {
+      "id": 2,
+      "question": "The library, which is known for its vast collection of __________ (book) on various subjects, also offers access to historical __________ (document).",
+      "type": "fill",
+      "correctAnswer": "books, documents",
+      "explanation": "一般名词直接加s。"
+    },
+    {
+      "id": 3,
+      "question": "Susan Luo, an adviser for __________ (teenager), has received a letter asking for some __________ (advise).",
+      "type": "fill",
+      "correctAnswer": "teenagers, advice",
+      "explanation": "teenager以er结尾，直接加s；advice是不可数名词，不加s。"
+    },
+    {
+      "id": 4,
+      "question": "You think that your friend __________ (play) computer games too often and __________ (spend) too much time online.",
+      "type": "fill",
+      "correctAnswer": "plays, spends",
+      "explanation": "play以辅音字母+y结尾，变y为i加es；spend以s结尾，直接加s。"
+    },
+    {
+      "id": 5,
+      "question": "One of the most pressing __________ (issue) is the excessive use of plastic __________ (product), which often end up in our oceans, harming marine __________ (life).",
+      "type": "fill",
+      "correctAnswer": "issues, products, lives",
+      "explanation": "issue以e结尾，直接加s；product以t结尾，直接加s；life以fe结尾，变fe为ves。"
+    },
+    {
+      "id": 6,
+      "question": "This four-day walking tour will take you on amazing __________ (path) through the Andes Mountains on the way to the city of Machu Picchu.",
+      "type": "fill",
+      "correctAnswer": "paths",
+      "explanation": "path以th结尾，直接加s。"
+    },
+    {
+      "id": 7,
+      "question": "Instead of saying \"I want to lose three __________ (kilo)\", I would say \"I want to run two __________ (kilometre) in eight __________ (minute)\" or \"I want to be able to do 30 __________ (push-up)\".",
+      "type": "fill",
+      "correctAnswer": "kilos, kilometres, minutes, push-ups",
+      "explanation": "kilo以o结尾但以元音字母+o结尾，直接加s；kilometre以re结尾，直接加s；minute以e结尾，直接加s；push-up是合成名词，没有中心名词，最后一个词变复数。"
+    },
+    {
+      "id": 8,
+      "question": "__________ (mouse) ran out of the fields looking for places to hide, and __________ (fish) jumped out of the water.",
+      "type": "fill",
+      "correctAnswer": "Mice, fish",
+      "explanation": "mouse是不规则变化，mouse → mice；fish是单复数同形。"
+    },
+    {
+      "id": 9,
+      "question": "These ice __________ (prince) and __________ (princess) are so graceful that it's easy to forget that they are actually highly skilled __________ (athlete).",
+      "type": "fill",
+      "correctAnswer": "princes, princesses, athletes",
+      "explanation": "prince以ce结尾，直接加s；princess以ss结尾，加es；athlete以e结尾，直接加s。"
+    },
+    {
+      "id": 10,
+      "question": "After that, Tim started looking for new __________ (language) to learn, and posting more __________ (video) of himself speaking new __________ (language), including Chinese.",
+      "type": "fill",
+      "correctAnswer": "languages, videos, languages",
+      "explanation": "language以e结尾，直接加s；video以o结尾但以元音字母+o结尾，直接加s。"
+    }
+  ]
+}

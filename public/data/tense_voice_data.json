@@ -1,0 +1,151 @@
+{
+  "moduleName": "时态语态考查",
+  "knowledgePoints": [
+    {
+      "id": 1,
+      "title": "一、一般时态",
+      "content": "表示经常性的动作或状态",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "一般现在时",
+          "content": "do/does; am/is/are\n1) 表示经常发生的、习惯性的动作\n2) 按时间表、时刻表将要发生的动作\n3) 表示普遍真理\n4) 在时间、条件状语从句中表将来"
+        },
+        {
+          "id": 2,
+          "title": "一般过去时",
+          "content": "did; was/were\n1) 表示过去某个时间发生的动作或情况\n2) 表示过去的习惯性动作"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "二、进行时态",
+      "content": "表示正在进行的动作",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "现在进行时",
+          "content": "am/is/are doing\n1) 表示说话时正在进行\n2) 表示按计划即将发生的动作\n3) 与always连用表示赞赏或厌恶"
+        },
+        {
+          "id": 2,
+          "title": "过去进行时",
+          "content": "was/were doing\n1) 表示在过去具体时间正在发生\n2) 可以表示过去将来\n3) 与频度副词连用表示感情色彩"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "三、完成时态",
+      "content": "表示已完成的动作及其影响",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "现在完成时",
+          "content": "have/has done\n1) 表示发生在过去但对现在仍有影响\n2) 表示从过去某时开始一直延续至今\n3) 在条件、时间、让步状语从句中表示将来完成\n4) It is the first/second... time that从句用现在完成时"
+        },
+        {
+          "id": 2,
+          "title": "过去完成时",
+          "content": "had done\n1) 表示过去的过去\n2) 表示从过去某时开始一直延续到过去另一时间\n3) 表示过去本打算实现而未实现的计划\n4) hardly...when...; no sooner...than...句型中主句用过去完成时"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "四、被动语态",
+      "content": "be + 过去分词",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "各种时态的被动语态",
+          "content": "一般现在时：am/is/are + done\n一般过去时：was/were + done\n现在进行时：am/is/are + being done\n过去进行时：was/were + being done\n现在完成时：have/has + been done\n过去完成时：had + been done"
+        },
+        {
+          "id": 2,
+          "title": "情态动词的被动语态",
+          "content": "can/could/may/might/should/must + be + done"
+        },
+        {
+          "id": 3,
+          "title": "不定式的被动语态",
+          "content": "to + be + done"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "He plays basketball every day.",
+      "type": "choice",
+      "options": ["一般现在时", "现在进行时", "一般过去时", "过去完成时"],
+      "correctAnswer": "一般现在时",
+      "explanation": "表示经常性习惯动作，用一般现在时"
+    },
+    {
+      "id": 2,
+      "question": "The film ______ (start) at two o'clock tomorrow.",
+      "type": "fill",
+      "correctAnswer": "starts",
+      "explanation": "按时刻表将要发生的动作，用一般现在时表将来"
+    },
+    {
+      "id": 3,
+      "question": "The earth ______ (go) round the sun.",
+      "type": "fill",
+      "correctAnswer": "goes",
+      "explanation": "表示普遍真理，用一般现在时"
+    },
+    {
+      "id": 4,
+      "question": "He ______ (listen) to a tape, but he can't hear it clearly.",
+      "type": "fill",
+      "correctAnswer": "is listening",
+      "explanation": "表示说话时正在进行的动作，用现在进行时"
+    },
+    {
+      "id": 5,
+      "question": "He ______ (leave) tomorrow to play his first match.",
+      "type": "fill",
+      "correctAnswer": "is leaving",
+      "explanation": "表示按计划即将发生的动作，用现在进行时表将来"
+    },
+    {
+      "id": 6,
+      "question": "China's high-speed railways ______ (grow) rapidly in the past few years.",
+      "type": "fill",
+      "correctAnswer": "have grown",
+      "explanation": "表示从过去某时开始一直延续至今的动作，用现在完成时"
+    },
+    {
+      "id": 7,
+      "question": "By that time, I ______ already ______ (make) the decision to leave.",
+      "type": "fill",
+      "correctAnswer": "had, made",
+      "explanation": "表示过去的过去，用过去完成时"
+    },
+    {
+      "id": 8,
+      "question": "The book ______ (write) by him last year.",
+      "type": "fill",
+      "correctAnswer": "was written",
+      "explanation": "一般过去时的被动语态"
+    },
+    {
+      "id": 9,
+      "question": "The project ______ (complete) by the end of this month.",
+      "type": "fill",
+      "correctAnswer": "will be completed",
+      "explanation": "一般将来时的被动语态"
+    },
+    {
+      "id": 10,
+      "question": "The bridge ______ (build) now.",
+      "type": "fill",
+      "correctAnswer": "is being built",
+      "explanation": "现在进行时的被动语态"
+    }
+  ]
+}

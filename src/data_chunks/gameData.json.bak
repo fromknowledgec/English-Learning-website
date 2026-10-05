@@ -1,0 +1,875 @@
+{
+  "worlds": [
+    {
+      "id": 1,
+      "name": "选择性必修一",
+      "levels": [
+        {
+          "id": 1,
+          "name": "People of Achievement",
+          "lexicalChunks": [
+            {
+              "en": "insist on doing",
+              "cn": ["坚持做", "执意做"]
+            },
+            {
+              "en": "acknowledge defeat",
+              "cn": ["承认失败"]
+            },
+            {
+              "en": "die from",
+              "cn": ["死于"]
+            },
+            {
+              "en": "come to power",
+              "cn": ["掌权", "上台"]
+            },
+            {
+              "en": "pass away",
+              "cn": ["去世", "逝世"]
+            },
+            {
+              "en": "be thought to do",
+              "cn": ["被认为做某事"]
+            },
+            {
+              "en": "take up a position",
+              "cn": ["担任职务", "就职"]
+            },
+            {
+              "en": "devote oneself to",
+              "cn": ["致力于", "奉献于"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "Tu Youyou and her team members even _______________ testing the medicine on themselves.",
+              "options": ["insisted on", "were involved in", "got stuck", "acknowledged defeat"],
+              "answer": "insisted on"
+            },
+            {
+              "stem": "Their project got stuck. However, Tu Youyou would not ____________________.",
+              "options": ["acknowledge defeat", "come to power", "pass away", "take up a position"],
+              "answer": "acknowledge defeat"
+            },
+            {
+              "stem": "He ____________________ in 1976 at the age of 82.",
+              "options": ["came to power", "passed away", "died from", "insisted on"],
+              "answer": "passed away"
+            },
+            {
+              "stem": "Many people ____________________ because of the poor medical conditions.",
+              "options": ["died from", "passed away", "acknowledged defeat", "came to power"],
+              "answer": "died from"
+            },
+            {
+              "stem": "The new leader ____________________ last year and brought many changes.",
+              "options": ["came to power", "passed away", "died from", "took up a position"],
+              "answer": "came to power"
+            },
+            {
+              "stem": "She ____________________ as the head of the department after years of hard work.",
+              "options": ["took up a position", "acknowledged defeat", "insisted on", "devoted herself to"],
+              "answer": "took up a position"
+            },
+            {
+              "stem": "He ____________________ to solve the problem despite the difficulties.",
+              "options": ["insisted on", "acknowledged defeat", "died from", "came to power"],
+              "answer": "insisted on"
+            },
+            {
+              "stem": "Many scientists ____________________ their lives to research.",
+              "options": ["devoted themselves to", "insisted on", "acknowledged defeat", "came to power"],
+              "answer": "devoted themselves to"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Looking into the Future",
+          "lexicalChunks": [
+            {
+              "en": "look into the future",
+              "cn": ["展望未来"]
+            },
+            {
+              "en": "devote...to...",
+              "cn": ["致力于", "奉献于"]
+            },
+            {
+              "en": "be convinced that",
+              "cn": ["确信"]
+            },
+            {
+              "en": "make a difference",
+              "cn": ["产生影响", "起作用"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "Many scientists ____________________ that their research will make a difference.",
+              "options": ["are convinced that", "look into", "insist on", "devote to"],
+              "answer": "are convinced that"
+            },
+            {
+              "stem": "We need to ____________________ more clean energy to protect the environment.",
+              "options": ["devote ourselves to", "make a difference", "look into", "be convinced"],
+              "answer": "devote ourselves to"
+            },
+            {
+              "stem": "Small actions can ____________________ in the long run.",
+              "options": ["make a difference", "be convinced that", "look into", "devote to"],
+              "answer": "make a difference"
+            },
+            {
+              "stem": "We should ____________________ and plan for our career development.",
+              "options": ["look into the future", "be convinced that", "devote to", "make a difference"],
+              "answer": "look into the future"
+            },
+            {
+              "stem": "They ____________________ that the new technology would change the world.",
+              "options": ["were convinced that", "looked into", "devoted to", "made a difference"],
+              "answer": "were convinced that"
+            },
+            {
+              "stem": "Every individual can ____________________ to society.",
+              "options": ["make a difference", "be convinced that", "look into", "devote to"],
+              "answer": "make a difference"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Fascinating Parks",
+          "lexicalChunks": [
+            {
+              "en": "be fascinated by",
+              "cn": ["着迷于", "被...吸引"]
+            },
+            {
+              "en": "get stuck",
+              "cn": ["被困", "卡住"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "Visitors ____________________ by the beautiful scenery in the park.",
+              "options": ["are fascinated", "get stuck", "look into", "devote"],
+              "answer": "are fascinated"
+            },
+            {
+              "stem": "Many tourists ____________________ in traffic during the holiday season.",
+              "options": ["get stuck", "are fascinated", "look into", "devote"],
+              "answer": "get stuck"
+            },
+            {
+              "stem": "Children ____________________ by the colorful rides in the amusement park.",
+              "options": ["are fascinated", "get stuck", "look into", "devote"],
+              "answer": "are fascinated"
+            },
+            {
+              "stem": "The car ____________________ in the mud and couldn't move.",
+              "options": ["got stuck", "was fascinated", "looked into", "devoted"],
+              "answer": "got stuck"
+            },
+            {
+              "stem": "Everyone ____________________ by the amazing fireworks display.",
+              "options": ["was fascinated", "got stuck", "looked into", "devoted"],
+              "answer": "was fascinated"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Body Language",
+          "lexicalChunks": [
+            {
+              "en": "make inferences",
+              "cn": ["推断", "推论"]
+            },
+            {
+              "en": "break down",
+              "cn": ["分解", "崩溃"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "We can ____________________ about people's feelings from their body language.",
+              "options": ["make inferences", "get stuck", "be fascinated", "break down"],
+              "answer": "make inferences"
+            },
+            {
+              "stem": "The chemical process ____________________ into simpler substances.",
+              "options": ["breaks down", "makes inferences", "gets stuck", "is fascinated"],
+              "answer": "breaks down"
+            },
+            {
+              "stem": "Scientists ____________________ conclusions based on experimental data.",
+              "options": ["make inferences", "break down", "get stuck", "are fascinated"],
+              "answer": "make inferences"
+            },
+            {
+              "stem": "After working for months without rest, he finally ____________________.",
+              "options": ["broke down", "made inferences", "got stuck", "was fascinated"],
+              "answer": "broke down"
+            },
+            {
+              "stem": "Students learn to ____________________ from context clues.",
+              "options": ["make inferences", "break down", "get stuck", "be fascinated"],
+              "answer": "make inferences"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Working the Land",
+          "lexicalChunks": [
+            {
+              "en": "work the land",
+              "cn": ["种地", "耕作"]
+            },
+            {
+              "en": "be committed to",
+              "cn": ["致力于", "承诺"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "Farmers ____________________ improving the soil quality.",
+              "options": ["are committed to", "work the land", "make inferences", "get stuck"],
+              "answer": "are committed to"
+            },
+            {
+              "stem": "They have ____________________ the land for generations.",
+              "options": ["worked", "committed to", "made inferences", "broken down"],
+              "answer": "worked"
+            },
+            {
+              "stem": "The company ____________________ providing quality products.",
+              "options": ["is committed to", "works the land", "makes inferences", "breaks down"],
+              "answer": "is committed to"
+            },
+            {
+              "stem": "Many farmers ____________________ the land with traditional methods.",
+              "options": ["work", "are committed to", "make inferences", "break down"],
+              "answer": "work"
+            },
+            {
+              "stem": "She ____________________ to helping children in need.",
+              "options": ["is committed", "works", "makes inferences", "breaks down"],
+              "answer": "is committed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "选择性必修二",
+      "levels": [
+        {
+          "id": 1,
+          "name": "Science and Scientists",
+          "lexicalChunks": [
+            {
+              "en": "conduct experiments",
+              "cn": ["做实验"]
+            },
+            {
+              "en": "draw a conclusion",
+              "cn": ["得出结论"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "Scientists ____________________ to test their hypotheses.",
+              "options": ["conduct experiments", "draw conclusions", "work the land", "make inferences"],
+              "answer": "conduct experiments"
+            },
+            {
+              "stem": "After analyzing the data, they ____________________ that the theory was correct.",
+              "options": ["drew a conclusion", "conducted experiments", "worked the land", "made inferences"],
+              "answer": "drew a conclusion"
+            },
+            {
+              "stem": "Students ____________________ in the laboratory every week.",
+              "options": ["conduct experiments", "draw conclusions", "work the land", "make inferences"],
+              "answer": "conduct experiments"
+            },
+            {
+              "stem": "It's difficult to ____________________ without sufficient evidence.",
+              "options": ["draw a conclusion", "conduct experiments", "work the land", "make inferences"],
+              "answer": "draw a conclusion"
+            },
+            {
+              "stem": "The research team ____________________ carefully to ensure accuracy.",
+              "options": ["conducted experiments", "drew conclusions", "worked the land", "made inferences"],
+              "answer": "conducted experiments"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Bridging Cultures",
+          "lexicalChunks": [
+            {
+              "en": "bridge cultures",
+              "cn": ["连接文化", "沟通文化"]
+            },
+            {
+              "en": "adapt to",
+              "cn": ["适应"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "Cultural exchange can ____________________ between different countries.",
+              "options": ["bridge cultures", "adapt to", "conduct experiments", "draw conclusions"],
+              "answer": "bridge cultures"
+            },
+            {
+              "stem": "It takes time to ____________________ a new environment.",
+              "options": ["adapt to", "bridge cultures", "conduct experiments", "draw conclusions"],
+              "answer": "adapt to"
+            },
+            {
+              "stem": "Language learning helps ____________________ and understanding.",
+              "options": ["bridge cultures", "adapt to", "conduct experiments", "draw conclusions"],
+              "answer": "bridge cultures"
+            },
+            {
+              "stem": "Students need to ____________________ the academic requirements quickly.",
+              "options": ["adapt to", "bridge cultures", "conduct experiments", "draw conclusions"],
+              "answer": "adapt to"
+            },
+            {
+              "stem": "Art can ____________________ across borders and generations.",
+              "options": ["bridge cultures", "adapt to", "conduct experiments", "draw conclusions"],
+              "answer": "bridge cultures"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Food and Culture",
+          "lexicalChunks": [
+            {
+              "en": "be associated with",
+              "cn": ["与...相关", "与...联系"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "Traditional food ____________________ local customs.",
+              "options": ["is associated with", "bridges", "adapts to", "conducts"],
+              "answer": "is associated with"
+            },
+            {
+              "stem": "Good health ____________________ a balanced diet.",
+              "options": ["is associated with", "bridges", "adapts to", "conducts"],
+              "answer": "is associated with"
+            },
+            {
+              "stem": "This brand ____________________ high quality products.",
+              "options": ["is associated with", "bridges", "adapts to", "conducts"],
+              "answer": "is associated with"
+            },
+            {
+              "stem": "The color red ____________________ good luck in Chinese culture.",
+              "options": ["is associated with", "bridges", "adapts to", "conducts"],
+              "answer": "is associated with"
+            },
+            {
+              "stem": "Success ____________________ hard work and persistence.",
+              "options": ["is associated with", "bridges", "adapts to", "conducts"],
+              "answer": "is associated with"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Journey across a Vast Land",
+          "lexicalChunks": [
+            {
+              "en": "embark on a journey",
+              "cn": ["踏上旅程"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "They ____________________ across the vast land.",
+              "options": ["embarked on a journey", "associated with", "bridged", "adapted to"],
+              "answer": "embarked on a journey"
+            },
+            {
+              "stem": "Before you ____________________, make sure you have everything you need.",
+              "options": ["embark on a journey", "associate with", "bridge", "adapt to"],
+              "answer": "embark on a journey"
+            },
+            {
+              "stem": "Many explorers ____________________ to discover new lands.",
+              "options": ["embarked on journeys", "associated with", "bridged", "adapted to"],
+              "answer": "embarked on journeys"
+            },
+            {
+              "stem": "Life is like a ____________________ full of surprises.",
+              "options": ["journey", "association", "bridge", "adaptation"],
+              "answer": "journey"
+            },
+            {
+              "stem": "We should ____________________ with courage and determination.",
+              "options": ["embark on the journey", "associate with", "bridge", "adapt to"],
+              "answer": "embark on the journey"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "First Aid",
+          "lexicalChunks": [
+            {
+              "en": "apply first aid",
+              "cn": ["急救"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "You should ____________________ immediately in case of emergency.",
+              "options": ["apply first aid", "embark on", "associate with", "bridge"],
+              "answer": "apply first aid"
+            },
+            {
+              "stem": "Everyone should learn how to ____________________.",
+              "options": ["apply first aid", "embark on", "associate with", "bridge"],
+              "answer": "apply first aid"
+            },
+            {
+              "stem": "The medical team ____________________ to save the injured.",
+              "options": ["applied first aid", "embarked on", "associated with", "bridged"],
+              "answer": "applied first aid"
+            },
+            {
+              "stem": "Knowing how to ____________________ can save lives.",
+              "options": ["apply first aid", "embark on", "associate with", "bridge"],
+              "answer": "apply first aid"
+            },
+            {
+              "stem": "They ____________________ to the victim before the ambulance arrived.",
+              "options": ["applied first aid", "embarked on", "associated with", "bridged"],
+              "answer": "applied first aid"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "选择性必修三",
+      "levels": [
+        {
+          "id": 1,
+          "name": "Art",
+          "lexicalChunks": [
+            {
+              "en": "appreciate art",
+              "cn": ["欣赏艺术"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "We should ____________________ to understand different cultures.",
+              "options": ["appreciate art", "apply first aid", "embark on", "associate"],
+              "answer": "appreciate art"
+            },
+            {
+              "stem": "Many people enjoy ____________________ in museums and galleries.",
+              "options": ["appreciating art", "applying first aid", "embarking on", "associating"],
+              "answer": "appreciating art"
+            },
+            {
+              "stem": "Learning to ____________________ takes time and practice.",
+              "options": ["appreciate art", "apply first aid", "embark on", "associate"],
+              "answer": "appreciate art"
+            },
+            {
+              "stem": "She ____________________ by visiting art exhibitions regularly.",
+              "options": ["appreciates art", "applies first aid", "embarks on", "associates"],
+              "answer": "appreciates art"
+            },
+            {
+              "stem": "Children can learn to ____________________ from an early age.",
+              "options": ["appreciate art", "apply first aid", "embark on", "associate"],
+              "answer": "appreciate art"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Healthy Lifestyle",
+          "lexicalChunks": [
+            {
+              "en": "lead a healthy lifestyle",
+              "cn": ["过健康的生活方式"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "It's important to ____________________ for a long life.",
+              "options": ["lead a healthy lifestyle", "appreciate art", "apply aid", "bridge"],
+              "answer": "lead a healthy lifestyle"
+            },
+            {
+              "stem": "Doctors advise people to ____________________ to prevent diseases.",
+              "options": ["lead a healthy lifestyle", "appreciate art", "apply aid", "bridge"],
+              "answer": "lead a healthy lifestyle"
+            },
+            {
+              "stem": "He decided to ____________________ after recovering from illness.",
+              "options": ["lead a healthy lifestyle", "appreciate art", "apply aid", "bridge"],
+              "answer": "lead a healthy lifestyle"
+            },
+            {
+              "stem": "____________________ includes proper diet and regular exercise.",
+              "options": ["Leading a healthy lifestyle", "Appreciating art", "Applying aid", "Bridging"],
+              "answer": "Leading a healthy lifestyle"
+            },
+            {
+              "stem": "To ____________________, you need to balance work and rest.",
+              "options": ["lead a healthy lifestyle", "appreciate art", "apply aid", "bridge"],
+              "answer": "lead a healthy lifestyle"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Environmental Protection",
+          "lexicalChunks": [
+            {
+              "en": "protect the environment",
+              "cn": ["保护环境"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "We must ____________________ for future generations.",
+              "options": ["protect the environment", "lead lifestyle", "appreciate", "apply"],
+              "answer": "protect the environment"
+            },
+            {
+              "stem": "Everyone should ____________________ by reducing waste.",
+              "options": ["protect the environment", "lead lifestyle", "appreciate", "apply"],
+              "answer": "protect the environment"
+            },
+            {
+              "stem": "The government ____________________ by passing new laws.",
+              "options": "protects the environment",
+              "leads lifestyle",
+              "appreciates",
+              "applies",
+              "answer": "protects the environment"
+            },
+            {
+              "stem": "____________________ is everyone's responsibility.",
+              "options": "Protecting the environment",
+              "Leading lifestyle",
+              "Appreciating",
+              "Applying",
+              "answer": "Protecting the environment"
+            },
+            {
+              "stem": "We can ____________________ by using renewable energy.",
+              "options": ["protect the environment", "lead lifestyle", "appreciate", "apply"],
+              "answer": "protect the environment"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Adversity and Courage",
+          "lexicalChunks": [
+            {
+              "en": "overcome adversity",
+              "cn": ["克服逆境"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "We can ____________________ with courage and determination.",
+              "options": ["overcome adversity", "protect environment", "lead lifestyle", "appreciate"],
+              "answer": "overcome adversity"
+            },
+            {
+              "stem": "Many successful people ____________________ before achieving their goals.",
+              "options": ["overcame adversity", "protected environment", "led lifestyle", "appreciated"],
+              "answer": "overcame adversity"
+            },
+            {
+              "stem": "____________________ requires patience and strength.",
+              "options": "Overcoming adversity",
+              "Protecting environment",
+              "Leading lifestyle",
+              "Appreciating",
+              "answer": "Overcoming adversity"
+            },
+            {
+              "stem": "She managed to ____________________ through hard work.",
+              "options": ["overcome adversity", "protect environment", "lead lifestyle", "appreciate"],
+              "answer": "overcome adversity"
+            },
+            {
+              "stem": "To ____________________, you must stay positive and never give up.",
+              "options": ["overcome adversity", "protect environment", "lead lifestyle", "appreciate"],
+              "answer": "overcome adversity"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Poems",
+          "lexicalChunks": [
+            {
+              "en": "compose poems",
+              "cn": ["创作诗歌"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "Many writers ____________________ to express their feelings.",
+              "options": ["compose poems", "overcome adversity", "protect", "lead"],
+              "answer": "compose poems"
+            },
+            {
+              "stem": "She began to ____________________ at a young age.",
+              "options": ["compose poems", "overcome adversity", "protect", "lead"],
+              "answer": "compose poems"
+            },
+            {
+              "stem": "____________________ requires creativity and imagination.",
+              "options": "Composing poems",
+              "Overcoming adversity",
+              "Protecting",
+              "Leading",
+              "answer": "Composing poems"
+            },
+            {
+              "stem": "He ____________________ about nature and love.",
+              "options": ["composes poems", "overcomes adversity", "protects", "leads"],
+              "answer": "composes poems"
+            },
+            {
+              "stem": "Students learn to ____________________ in literature class.",
+              "options": ["compose poems", "overcome adversity", "protect", "lead"],
+              "answer": "compose poems"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "选择性必修四",
+      "levels": [
+        {
+          "id": 1,
+          "name": "Science Fiction",
+          "lexicalChunks": [
+            {
+              "en": "explore space",
+              "cn": ["探索太空"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "Scientists ____________________ to discover new worlds.",
+              "options": ["explore space", "compose", "overcome", "protect"],
+              "answer": "explore space"
+            },
+            {
+              "stem": "Many countries ____________________ in the last century.",
+              "options": ["explored space", "composed", "overcame", "protected"],
+              "answer": "explored space"
+            },
+            {
+              "stem": "____________________ has always fascinated human beings.",
+              "options": "Exploring space",
+              "Composing",
+              "Overcoming",
+              "Protecting",
+              "answer": "Exploring space"
+            },
+            {
+              "stem": "They ____________________ to find signs of life on other planets.",
+              "options": ["explore space", "compose", "overcome", "protect"],
+              "answer": "explore space"
+            },
+            {
+              "stem": "Space agencies ____________________ with advanced technology.",
+              "options": ["explore space", "compose", "overcome", "protect"],
+              "answer": "explore space"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Iconic Attractions",
+          "lexicalChunks": [
+            {
+              "en": "visit attractions",
+              "cn": ["参观景点"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "Tourists ____________________ to experience local culture.",
+              "options": ["visit attractions", "explore space", "compose", "overcome"],
+              "answer": "visit attractions"
+            },
+            {
+              "stem": "Many people ____________________ famous landmarks during their holidays.",
+              "options": ["visit attractions", "explore space", "compose", "overcome"],
+              "answer": "visit attractions"
+            },
+            {
+              "stem": "The city has many ____________________ worth visiting.",
+              "options": ["iconic attractions", "space exploration", "poems", "adversity"],
+              "answer": "iconic attractions"
+            },
+            {
+              "stem": "We plan to ____________________ all the famous places in the city.",
+              "options": ["visit attractions", "explore space", "compose", "overcome"],
+              "answer": "visit attractions"
+            },
+            {
+              "stem": "____________________ helps us understand the local culture.",
+              "options": "Visiting attractions",
+              "Exploring space",
+              "Composing",
+              "Overcoming",
+              "answer": "Visiting attractions"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Sea Exploration",
+          "lexicalChunks": [
+            {
+              "en": "dive into the sea",
+              "cn": ["潜入海洋"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "Divers ____________________ to study marine life.",
+              "options": ["dive into the sea", "visit attractions", "explore space", "compose"],
+              "answer": "dive into the sea"
+            },
+            {
+              "stem": "They ____________________ to discover underwater treasures.",
+              "options": ["dived into the sea", "visited attractions", "explored space", "composed"],
+              "answer": "dived into the sea"
+            },
+            {
+              "stem": "____________________ requires special training and equipment.",
+              "options": "Diving into the sea",
+              "Visiting attractions",
+              "Exploring space",
+              "Composing",
+              "answer": "Diving into the sea"
+            },
+            {
+              "stem": "Scientists ____________________ to collect samples of seawater.",
+              "options": ["dive into the sea", "visit attractions", "explore space", "compose"],
+              "answer": "dive into the sea"
+            },
+            {
+              "stem": "Many tourists ____________________ for fun and adventure.",
+              "options": ["dive into the sea", "visit attractions", "explore space", "compose"],
+              "answer": "dive into the sea"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Sharing",
+          "lexicalChunks": [
+            {
+              "en": "share knowledge",
+              "cn": ["分享知识"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "Teachers ____________________ with their students.",
+              "options": ["share knowledge", "dive", "visit", "explore"],
+              "answer": "share knowledge"
+            },
+            {
+              "stem": "We should ____________________ to help others learn.",
+              "options": ["share knowledge", "dive", "visit", "explore"],
+              "answer": "share knowledge"
+            },
+            {
+              "stem": "____________________ benefits everyone in the community.",
+              "options": "Sharing knowledge",
+              "Diving",
+              "Visiting",
+              "Exploring",
+              "answer": "Sharing knowledge"
+            },
+            {
+              "stem": "The internet makes it easy to ____________________ globally.",
+              "options": ["share knowledge", "dive", "visit", "explore"],
+              "answer": "share knowledge"
+            },
+            {
+              "stem": "She ____________________ by writing educational articles.",
+              "options": ["shares knowledge", "dives", "visits", "explores"],
+              "answer": "shares knowledge"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Launching Your Career",
+          "lexicalChunks": [
+            {
+              "en": "launch a career",
+              "cn": ["开始职业生涯"]
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "stem": "Students ____________________ after graduation.",
+              "options": ["launch a career", "share knowledge", "dive", "visit"],
+              "answer": "launch a career"
+            },
+            {
+              "stem": "It takes courage to ____________________ in a new field.",
+              "options": ["launch a career", "share knowledge", "dive", "visit"],
+              "answer": "launch a career"
+            },
+            {
+              "stem": "____________________ requires careful planning and preparation.",
+              "options": "Launching a career",
+              "Sharing knowledge",
+              "Diving",
+              "Visiting",
+              "answer": "Launching a career"
+            },
+            {
+              "stem": "She decided to ____________________ in computer science.",
+              "options": ["launch a career", "share knowledge", "dive", "visit"],
+              "answer": "launch a career"
+            },
+            {
+              "stem": "Many young people ____________________ with high hopes and dreams.",
+              "options": ["launch careers", "share knowledge", "dive", "visit"],
+              "answer": "launch careers"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

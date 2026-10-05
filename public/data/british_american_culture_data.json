@@ -1,0 +1,175 @@
+{
+  "moduleName": "英美文化常识",
+  "knowledgePoints": [
+    {
+      "id": 1,
+      "title": "一、英国地理与历史",
+      "content": "The United Kingdom of Great Britain and Northern Ireland",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "地理",
+          "content": "英国由英格兰、苏格兰、威尔士和北爱尔兰组成。首都是伦敦。"
+        },
+        {
+          "id": 2,
+          "title": "语言",
+          "content": "英语属于印欧语系日耳曼语族。古英语受维京人的古诺尔斯语影响。中世纪英语因诺曼征服受法语影响。现代英语从15世纪开始标准化。"
+        },
+        {
+          "id": 3,
+          "title": "历史重要事件",
+          "content": "公元前55年：凯撒大帝入侵\n1066年：诺曼征服，建立封建制度\n1215年：大宪章签署，英国宪政的基础\n15世纪：玫瑰战争，都铎王朝建立\n1588年：击败西班牙无敌舰队\n17世纪：英国内战，克伦威尔执政\n18-19世纪：工业革命，成为世界强国"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "二、英国政府与文化",
+      "content": "Government and Culture",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "政府",
+          "content": "议会制君主立宪制。议会分为上议院（贵族院）和下议院。主要政党：保守党、工党、自由民主党。"
+        },
+        {
+          "id": 2,
+          "title": "教育",
+          "content": "公立学校体系和私立学校。著名大学：牛津大学、剑桥大学、帝国理工学院等。"
+        },
+        {
+          "id": 3,
+          "title": "节日",
+          "content": "圣诞节、复活节、复活节星期一、春季银行假日、夏季银行假日、万圣节等。"
+        },
+        {
+          "id": 4,
+          "title": "文学",
+          "content": "莎士比亚、狄更斯、简·奥斯汀、勃朗特姐妹等。"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "三、美国地理与历史",
+      "content": "The United States of America",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "地理",
+          "content": "由50个州组成。首都是华盛顿特区。主要城市：纽约、洛杉矶、芝加哥、旧金山等。"
+        },
+        {
+          "id": 2,
+          "title": "历史",
+          "content": "1492年：哥伦布发现美洲\n1607年：第一个英国殖民地建立\n1776年：独立宣言签署，美国独立\n1787年：宪法签署，建立联邦制\n1861-1865年：南北战争\n20世纪：两次世界大战后成为超级大国"
+        },
+        {
+          "id": 3,
+          "title": "政府",
+          "content": "联邦制总统共和制。三权分立：行政权（总统）、立法权（国会）、司法权（最高法院）。主要政党：民主党、共和党。"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "四、美国教育与文化",
+      "content": "Education and Culture",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "常青藤联盟",
+          "content": "哈佛大学、耶鲁大学、普林斯顿大学、哥伦比亚大学、宾夕法尼亚大学、布朗大学、达特茅斯学院、康奈尔大学"
+        },
+        {
+          "id": 2,
+          "title": "节日",
+          "content": "独立日（7月4日）、感恩节（11月第四个星期四）、圣诞节、复活节、阵亡将士纪念日、劳工节等。"
+        },
+        {
+          "id": 3,
+          "title": "文学",
+          "content": "马克·吐温、海明威、福克纳、惠特曼、爱伦·坡等。"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "What is the capital city of the United Kingdom?",
+      "type": "choice",
+      "options": ["Edinburgh", "London", "Cardiff", "Belfast"],
+      "correctAnswer": "London",
+      "explanation": "伦敦是英国的首都，其他为地区首府"
+    },
+    {
+      "id": 2,
+      "question": "To which language family does English belong?",
+      "type": "choice",
+      "options": ["Romance", "Germanic", "Slavic", "Sino-Tibetan"],
+      "correctAnswer": "Germanic",
+      "explanation": "英语属于印欧语系日耳曼语族"
+    },
+    {
+      "id": 3,
+      "question": "Which event in British history marked the establishment of feudalism?",
+      "type": "choice",
+      "options": ["Norman Conquest", "Wars of the Roses", "Signing of the Magna Carta", "Roman Invasion"],
+      "correctAnswer": "Norman Conquest",
+      "explanation": "诺曼征服标志着封建制度的建立"
+    },
+    {
+      "id": 4,
+      "question": "What event does American Independence Day commemorate?",
+      "type": "choice",
+      "options": ["Signing of the Declaration of Independence", "Adoption of the Constitution", "End of the Civil War", "Origin of Thanksgiving"],
+      "correctAnswer": "Signing of the Declaration of Independence",
+      "explanation": "独立日纪念1776年《独立宣言》签署"
+    },
+    {
+      "id": 5,
+      "question": "What is the Ivy League in the U.S. best known for?",
+      "type": "choice",
+      "options": ["Sports", "Academic Excellence", "Military Training", "Agricultural Research"],
+      "correctAnswer": "Academic Excellence",
+      "explanation": "常青藤联盟以学术卓越著称"
+    },
+    {
+      "id": 6,
+      "question": "The first English dictionary was published in ______.",
+      "type": "fill",
+      "correctAnswer": "1604",
+      "explanation": "首部英语词典于1604年出版"
+    },
+    {
+      "id": 7,
+      "question": "The U.S. Capitol Building is located in ______.",
+      "type": "fill",
+      "correctAnswer": "Washington, D.C.",
+      "explanation": "美国国会大厦位于华盛顿特区"
+    },
+    {
+      "id": 8,
+      "question": "The origin of American Thanksgiving can be traced back to ______ when Pilgrims and Native Americans celebrated together.",
+      "type": "fill",
+      "correctAnswer": "1621",
+      "explanation": "感恩节起源于1621年清教徒和美洲原住民共同庆祝"
+    },
+    {
+      "id": 9,
+      "question": "In English literature, Chaucer's masterpiece is ______.",
+      "type": "fill",
+      "correctAnswer": "The Canterbury Tales",
+      "explanation": "乔叟的代表作是《坎特伯雷故事集》"
+    },
+    {
+      "id": 10,
+      "question": "Mark Twain's representative work is ______.",
+      "type": "fill",
+      "correctAnswer": "The Adventures of Huckleberry Finn",
+      "explanation": "马克·吐温的代表作是《哈克贝利·芬历险记》"
+    }
+  ]
+}

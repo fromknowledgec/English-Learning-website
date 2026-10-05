@@ -1,0 +1,3316 @@
+[
+  {
+    "id": 1,
+    "name": "Group 1",
+    "words": [
+      {
+        "word": "shift",
+        "meanings": [
+          "n．(工厂、医院等轮班制的)当班时间"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n. 当班时间"
+          },
+          {
+            "key": "B",
+            "meaning": "vi. 变换"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 转嫁"
+          },
+          {
+            "key": "D",
+            "meaning": "n. 钢铁"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Public attitudes towards marriage have shifted over the past 50 years. __"
+          },
+          {
+            "number": "②",
+            "content": "He tried to shift the blame for his mistakes onto his colleagues. __"
+          },
+          {
+            "number": "③",
+            "content": "When he came back home from his night shift, Jason tried to avoid wakening his family. __"
+          }
+        ]
+      },
+      {
+        "word": "plus",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "adj.有利的，好的"
+          },
+          {
+            "key": "B",
+            "meaning": "prep.加"
+          },
+          {
+            "key": "C",
+            "meaning": "n.有利因素，好处"
+          },
+          {
+            "key": "D",
+            "meaning": "conj.而且，此外"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Fluency in Italian is a definite plus, but not a requirement. __"
+          },
+          {
+            "number": "②",
+            "content": "Two plus three makes five. __"
+          },
+          {
+            "number": "③",
+            "content": "He is the most intelligent boy I have met. Plus he is very hardworking. __"
+          },
+          {
+            "number": "④",
+            "content": "The fact that the flight goes from our nearest airport is a real plus point. __"
+          }
+        ]
+      },
+      {
+        "word": "range",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n．山脉"
+          },
+          {
+            "key": "B",
+            "meaning": "n．范围"
+          },
+          {
+            "key": "C",
+            "meaning": "vi.(在一定的范围内)变动/变化"
+          },
+          {
+            "key": "D",
+            "meaning": "vi.使(人或物)排成行或列"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Estimates of the damage range between $1 million and $5 million. __"
+          },
+          {
+            "number": "②",
+            "content": "Some 300 trees have been ranged along the street. __"
+          },
+          {
+            "number": "③",
+            "content": "The Alps are a high mountain range running across the central­south of the country. __"
+          },
+          {
+            "number": "④",
+            "content": "Almost all of the houses are too expensive so it is difficult to find a house in our price range. __"
+          }
+        ]
+      },
+      {
+        "word": "position",
+        "meanings": [
+          "n．职位；位置"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n. 位置"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 职位"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 安装，安置"
+          },
+          {
+            "key": "D",
+            "meaning": "adj. 强大的"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Large television screens were positioned at either end of the stadium. __"
+          },
+          {
+            "number": "②",
+            "content": "From his position on the cliff top, he had a good view of the harbour. __"
+          },
+          {
+            "number": "③",
+            "content": "His salary will be doubled and he’ll have a much better position. __"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Group 2",
+    "words": [
+      {
+        "word": "track",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n.跑道"
+          },
+          {
+            "key": "B",
+            "meaning": "n.足迹，踪迹"
+          },
+          {
+            "key": "C",
+            "meaning": "n.轨道"
+          },
+          {
+            "key": "D",
+            "meaning": "vt.追踪"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Engineers carried out a thorough inspection of the track to ensure the safety of the trains. __"
+          },
+          {
+            "number": "②",
+            "content": "The hunter tracked the wolf and managed to catch it. __"
+          },
+          {
+            "number": "③",
+            "content": "When Kelly ran around the track, she heard many cheers and kids shouting, “Go Kelly! You can do it!” __"
+          },
+          {
+            "number": "④",
+            "content": "We followed the bear’s tracks in the snow. __"
+          }
+        ]
+      },
+      {
+        "word": "net",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n.(网球等的)球网"
+          },
+          {
+            "key": "B",
+            "meaning": "adj.净得的"
+          },
+          {
+            "key": "C",
+            "meaning": "vt.净赚，净得"
+          },
+          {
+            "key": "D",
+            "meaning": "vt.(将球)踢入球门，射入球门"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "It is reported the company’s net profit increased by 10% last year. __"
+          },
+          {
+            "number": "②",
+            "content": "The player has netted 21 goals so far this season. __"
+          },
+          {
+            "number": "③",
+            "content": "Just one minute before the game was over, he kicked the ball into the net, helping his team win the champion. __"
+          },
+          {
+            "number": "④",
+            "content": "He netted a million dollars after taxes last year. __"
+          }
+        ]
+      },
+      {
+        "word": "tip",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n.建议，忠告，窍门"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 小费"
+          },
+          {
+            "key": "C",
+            "meaning": "n.尖，尖端"
+          },
+          {
+            "key": "D",
+            "meaning": "vt.倒出，翻覆"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "It is a custom in that country to give the waiter a tip after the meal. __"
+          },
+          {
+            "number": "②",
+            "content": "He tipped the contents of the bag onto the table. __"
+          },
+          {
+            "number": "③",
+            "content": "The following are some tips to help you gain the promotion you want. __"
+          },
+          {
+            "number": "④",
+            "content": "What you see is only the tip of the glacier and eight ninths of it is under the sea. __"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Group 3",
+    "words": [
+      {
+        "word": "host",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n.主人"
+          },
+          {
+            "key": "B",
+            "meaning": "n.东道主"
+          },
+          {
+            "key": "C",
+            "meaning": "n.主持人"
+          },
+          {
+            "key": "D",
+            "meaning": "vt.主办"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Beijing is the only city in the world which has hosted both the Summer Olympics and the Winter Olympics. __"
+          },
+          {
+            "number": "②",
+            "content": "Apart from the host of the party, I don’t know any guests. __"
+          },
+          {
+            "number": "③",
+            "content": "China is the host of the ⅩⅩⅣ Olympic Winter Games. __"
+          },
+          {
+            "number": "④",
+            "content": "She is a popular Chinese television show host. __"
+          }
+        ]
+      },
+      {
+        "word": "character",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n.人物，角色"
+          },
+          {
+            "key": "B",
+            "meaning": "n.性格"
+          },
+          {
+            "key": "C",
+            "meaning": "n.特色，特性"
+          },
+          {
+            "key": "D",
+            "meaning": "n.字，字体"
+          },
+          {
+            "key": "A",
+            "meaning": "vi.&  vt.挥手；招手"
+          },
+          {
+            "key": "B",
+            "meaning": "vi.(一端固定地)飘扬，飘动"
+          },
+          {
+            "key": "C",
+            "meaning": "n．波浪，波涛"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The twins look like each other but they have very different characters: one is quiet while the other is active. __"
+          },
+          {
+            "number": "②",
+            "content": "At the end of the story, the main character, a young man had to leave his girlfriend. __"
+          },
+          {
+            "number": "③",
+            "content": "Nowadays many foreigners love to study Chinese characters in China. __"
+          },
+          {
+            "number": "④",
+            "content": "—The town is so beautiful! I just love it."
+          },
+          {
+            "number": "①",
+            "content": "The red flags are waving in the breeze. __"
+          },
+          {
+            "number": "②",
+            "content": "As the wind blew harder, the waves grew rougher. __"
+          },
+          {
+            "number": "③",
+            "content": "He waved his arms to draw their attention, but they paid no attention. __"
+          }
+        ]
+      },
+      {
+        "word": "firm",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "adj.强有力的，坚决的"
+          },
+          {
+            "key": "B",
+            "meaning": "adj.牢固的，稳固的"
+          },
+          {
+            "key": "C",
+            "meaning": "n.商行，公司"
+          },
+          {
+            "key": "D",
+            "meaning": "vt. 创建"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The company now has a firm footing in the marketplace. __"
+          },
+          {
+            "number": "②",
+            "content": "The firm has achieved a dominant position in the world market. __"
+          },
+          {
+            "number": "③",
+            "content": "Firmer action will be taken against factories discharging smoke into the air. __"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Group 4",
+    "words": [
+      {
+        "word": "fancy",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "adj.花哨的"
+          },
+          {
+            "key": "B",
+            "meaning": "vt.想要，想做"
+          },
+          {
+            "key": "C",
+            "meaning": "vt.想象"
+          },
+          {
+            "key": "D",
+            "meaning": "n.想象(力)，想象的事物"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "It was such a scene of confusion as you can hardly fancy. __"
+          },
+          {
+            "number": "②",
+            "content": "I wanted a simple black dress, nothing fancy. __"
+          },
+          {
+            "number": "③",
+            "content": "Did I really hear someone come in, or was it only a fancy? __"
+          },
+          {
+            "number": "④",
+            "content": "Do you fancy going out for a walk this evening? __"
+          }
+        ]
+      },
+      {
+        "word": "type",
+        "meanings": [
+          "vi.&vt.打；打字n.类型，种类"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n. 类型，种类"
+          },
+          {
+            "key": "B",
+            "meaning": "vt. 打字"
+          },
+          {
+            "key": "C",
+            "meaning": "vi. 移动"
+          },
+          {
+            "key": "D",
+            "meaning": "n. 速度"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Due to the growing popularity of environmentally­related and adventure travel, various types of trips are now being classified as ecotourism. __"
+          },
+          {
+            "number": "②",
+            "content": "After two weeks’ practice, she can type quite fast now. __"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Group 5",
+    "words": [
+      {
+        "word": "lecture",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n.讲座"
+          },
+          {
+            "key": "B",
+            "meaning": "n.训斥，谴责"
+          },
+          {
+            "key": "C",
+            "meaning": "vi.作演讲；讲课"
+          },
+          {
+            "key": "D",
+            "meaning": "vt.斥责，告诫"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "He began to lecture us about making too much noise. __"
+          },
+          {
+            "number": "②",
+            "content": "She travelled widely in North America, lecturing on women’s rights. __"
+          },
+          {
+            "number": "③",
+            "content": "My father caught me and gave me a long lecture about the dangers of drink. __"
+          },
+          {
+            "number": "④",
+            "content": "Scottish National PortraitGallery presents a series of lectures for the general public. __"
+          }
+        ]
+      },
+      {
+        "word": "title",
+        "meanings": [
+          "n．标题，题目"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n. 头衔"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 题目，标题"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 冠军"
+          },
+          {
+            "key": "D",
+            "meaning": "adj. 聪明的"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The title will be officially given to him at a ceremony in London. __"
+          },
+          {
+            "number": "②",
+            "content": "He became the country’s first Olympic gold medallist when he won the 400m title in 1948. __"
+          },
+          {
+            "number": "③",
+            "content": "The title of a passage gives readers very important information about the main idea of it. __"
+          }
+        ]
+      },
+      {
+        "word": "wave",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n.海浪；波涛"
+          },
+          {
+            "key": "B",
+            "meaning": "n.波"
+          },
+          {
+            "key": "C",
+            "meaning": "vt.挥动"
+          },
+          {
+            "key": "D",
+            "meaning": "vt. 改变"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "At night, I listened to the sound of the waves breaking against the shore. __"
+          },
+          {
+            "number": "②",
+            "content": "We had some difficulties, but we were determined to accomplish our task and wave our national flag in outer space no matter what happened. __"
+          },
+          {
+            "number": "③",
+            "content": "Well, it functions by analyzing the waves of the incoming sound and creating a second set of outgoing waves. __"
+          }
+        ]
+      },
+      {
+        "word": "operation",
+        "meanings": [
+          "n．行动，活动；手术；操作"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n. 操作"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 手术"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 行动"
+          },
+          {
+            "key": "D",
+            "meaning": "n. 力量"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The operation could prolong his life by two or three years. __"
+          },
+          {
+            "number": "②",
+            "content": "Regular servicing guarantees the smooth operation of the engine. __"
+          },
+          {
+            "number": "③",
+            "content": "The police have launched a major operation against drug suppliers. __"
+          }
+        ]
+      },
+      {
+        "word": "observe",
+        "meanings": [
+          "vt.观察；注意"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 注意到"
+          },
+          {
+            "key": "B",
+            "meaning": "vt. 遵守"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 观察"
+          },
+          {
+            "key": "D",
+            "meaning": "vt. 庆祝"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Anyone who comes here must observe the social distancing rules and wear a mask__"
+          },
+          {
+            "number": "②",
+            "content": "Last weekend, our teachers took us on field trips to observe plants and animals. __"
+          },
+          {
+            "number": "③",
+            "content": "Jack observed a look of anxiety on his brother’s face. __"
+          },
+          {
+            "number": "④",
+            "content": "Chinese all over the world observe the Spring Festival.__"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Group 6",
+    "words": [
+      {
+        "word": "recognition",
+        "meanings": [
+          "n．表彰，赞扬"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n. 认出，认识，识别"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 承认，认可"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 表彰，赞扬"
+          },
+          {
+            "key": "D",
+            "meaning": "adj. 大的"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The town has changed out of recognition since I was last here. __"
+          },
+          {
+            "number": "②",
+            "content": "He was presented with a gold watch in recognition of his service to the company. __"
+          },
+          {
+            "number": "③",
+            "content": "There is a general recognition of the urgent need for reform. __"
+          }
+        ]
+      },
+      {
+        "word": "gain",
+        "meanings": [
+          "v．获得，赢得，取得；受益；增加，增长n.好处，利益"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "v. 受益"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 好处，利益"
+          },
+          {
+            "key": "C",
+            "meaning": "v. 加，增长"
+          },
+          {
+            "key": "D",
+            "meaning": "v. 获得，赢得，取得"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Within two weeks, she gained five pounds in weight. __"
+          },
+          {
+            "number": "②",
+            "content": "He made lots of personal gains from his political work. __"
+          },
+          {
+            "number": "③",
+            "content": "Her unusual talent gained her worldwide recognition. __"
+          },
+          {
+            "number": "④",
+            "content": "Anybody interested in investing would gain from reading this book. __"
+          }
+        ]
+      },
+      {
+        "word": "strike",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "v.突然想到"
+          },
+          {
+            "key": "B",
+            "meaning": "v.撞，碰"
+          },
+          {
+            "key": "C",
+            "meaning": "v.划火柴"
+          },
+          {
+            "key": "D",
+            "meaning": "v.袭击，侵袭"
+          },
+          {
+            "key": "E",
+            "meaning": "v.(时钟)敲响"
+          },
+          {
+            "key": "F",
+            "meaning": "v.打动，吸引"
+          },
+          {
+            "key": "G",
+            "meaning": "n.罢工"
+          },
+          {
+            "key": "H",
+            "meaning": "v.打击"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "She had just left for work on Monday when the earthquake struck. __"
+          },
+          {
+            "number": "②",
+            "content": "It was too dark so he struck a match and made a fire in the cave. __"
+          },
+          {
+            "number": "③",
+            "content": "At this point, it suddenly struck me that I was wasting my time. __"
+          },
+          {
+            "number": "④",
+            "content": "It is reported that the workers have been on strike for three days."
+          },
+          {
+            "number": "⑤",
+            "content": "The ship struck an iceberg, which tore a huge hole in its side."
+          },
+          {
+            "number": "⑥",
+            "content": "When the clock struck eleven, the party came to an end.  __"
+          },
+          {
+            "number": "⑦",
+            "content": "What struck me most in the movie was the father’s deep love for his son. __"
+          },
+          {
+            "number": "⑧",
+            "content": "He struck the table with his fist. __"
+          }
+        ]
+      },
+      {
+        "word": "score",
+        "meanings": [
+          "n．乐谱；比分；成绩"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n. 成绩"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 乐谱"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 得分"
+          },
+          {
+            "key": "D",
+            "meaning": "n. 比分"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "His job is to sit beside the pianist and turn the pages of the score so the musician doesn’t have to break the flow of sound by doing it themselves. __"
+          },
+          {
+            "number": "②",
+            "content": "His score on the reading test was very disappointing. __"
+          },
+          {
+            "number": "③",
+            "content": "We won the football game with a score of 4 to zero. __"
+          },
+          {
+            "number": "④",
+            "content": "Great cheers went up when he scored in the final minute of the game. __"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Group 7",
+    "words": [
+      {
+        "word": "stage",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n.舞台"
+          },
+          {
+            "key": "B",
+            "meaning": "n.阶段"
+          },
+          {
+            "key": "C",
+            "meaning": "vt.上演"
+          },
+          {
+            "key": "D",
+            "meaning": "n. 时间"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The equipment is still at the experimental stage.__"
+          },
+          {
+            "number": "②",
+            "content": "Performed in 1921 in Shanghai by Chinese students, it was the first foreign play staged in China."
+          },
+          {
+            "number": "③",
+            "content": "He said he became just as nervous as those playing instruments on stage."
+          }
+        ]
+      },
+      {
+        "word": "figure",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt.认为"
+          },
+          {
+            "key": "B",
+            "meaning": "n.数字"
+          },
+          {
+            "key": "C",
+            "meaning": "n.人物"
+          },
+          {
+            "key": "D",
+            "meaning": "n.人影"
+          },
+          {
+            "key": "E",
+            "meaning": "n.身材"
+          },
+          {
+            "key": "F",
+            "meaning": "n.图形"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "As for my favorite figure in Chinese history, it must be Wei Yuan, a great thinker in the late Qing Dynasty.__"
+          },
+          {
+            "number": "②",
+            "content": "The figure of the death in the mine will be published tomorrow.__"
+          },
+          {
+            "number": "③",
+            "content": "The wall is covered with figures of birds and flowers.__"
+          },
+          {
+            "number": "④",
+            "content": "Glancing round, he caught sight of a dark figure in the shadows. __"
+          },
+          {
+            "number": "⑤",
+            "content": "I figured that he was drunk and shouldn’t be allowed to drink more. __"
+          },
+          {
+            "number": "⑥",
+            "content": "How does Mary manage to keep her figure when she eats so much？__"
+          }
+        ]
+      },
+      {
+        "word": "cause",
+        "meanings": [
+          "vt.导致，引起；使发生n.原因；事业"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 引起，导致"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 原因"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 事业"
+          },
+          {
+            "key": "D",
+            "meaning": "vi. 生长"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Police are investigating the causes of the explosion. __"
+          },
+          {
+            "number": "②",
+            "content": "Her life was devoted to the cause of justice. __"
+          },
+          {
+            "number": "③",
+            "content": "Can you tell me what caused you to change your mind？__"
+          }
+        ]
+      },
+      {
+        "word": "note",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n.单音，音调，音符"
+          },
+          {
+            "key": "B",
+            "meaning": "n.笔记"
+          },
+          {
+            "key": "C",
+            "meaning": "n.纸币"
+          },
+          {
+            "key": "D",
+            "meaning": "vt.注意；留意"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Jack can’t go with you because he needs to brush up on his notes before the exam.__"
+          },
+          {
+            "number": "②",
+            "content": "When she reached one nurse, she tried to press a five­pound note into her hand.__"
+          },
+          {
+            "number": "③",
+            "content": "I hadn’t played a note in three years.__"
+          },
+          {
+            "number": "④",
+            "content": "She noted that he was not wearing his ring. __"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Group 8",
+    "words": [
+      {
+        "word": "desert",
+        "meanings": [
+          "n．沙漠  vt.抛弃，离弃，遗弃"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 抛弃，离弃，遗弃"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 沙漠"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 水平"
+          },
+          {
+            "key": "D",
+            "meaning": "adj. 新的"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Never has he had the idea of deserting his friends, even in hard times. __"
+          },
+          {
+            "number": "②",
+            "content": "The African continent, despite the fact that part of it is covered by desert, is one of the largest undeveloped continents in the world. __"
+          }
+        ]
+      },
+      {
+        "word": "flat",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n.一套公寓房，一套住房"
+          },
+          {
+            "key": "B",
+            "meaning": "adj.平坦的"
+          },
+          {
+            "key": "C",
+            "meaning": "adj.不景气的"
+          },
+          {
+            "key": "D",
+            "meaning": "adj.瘪了的"
+          },
+          {
+            "key": "E",
+            "meaning": "adj.电用完了的"
+          },
+          {
+            "key": "F",
+            "meaning": "adj.(拒绝或否认)断然的，坚决的"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "We had to pull the car off the road to change a flat tire.__"
+          },
+          {
+            "number": "②",
+            "content": "The housing market has been flat for months.__"
+          },
+          {
+            "number": "③",
+            "content": "If you ask her for help, it is likely that she will give you a flat refusal __"
+          },
+          {
+            "number": "④",
+            "content": "We’re going to buy a flat or a small house somewhere in South London.__"
+          },
+          {
+            "number": "⑤",
+            "content": "Lie down on a flat surface and place a cool, damp towel over your forehead. __"
+          },
+          {
+            "number": "⑥",
+            "content": "I left my car lights on all night and now the battery is flat.__"
+          }
+        ]
+      },
+      {
+        "word": "shoot",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n.芽，苗"
+          },
+          {
+            "key": "B",
+            "meaning": "vt.射中，射击"
+          },
+          {
+            "key": "C",
+            "meaning": "vt.拍摄"
+          },
+          {
+            "key": "D",
+            "meaning": "vt.射门"
+          },
+          {
+            "key": "E",
+            "meaning": "vt.(朝某方向)冲，奔，飞驰"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The two young stars were 12 years old when the film was shot.__"
+          },
+          {
+            "number": "②",
+            "content": "In early spring we could see new shoots coming out of the ground.__"
+          },
+          {
+            "number": "③",
+            "content": "They had almost reached the boat when a figure shot past them.__"
+          },
+          {
+            "number": "④",
+            "content": "He had been shot in the leg while trying to escape.__"
+          },
+          {
+            "number": "⑤",
+            "content": "He shot the ball in the final seconds of the game, which helped his team win the champion.__"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Group 9",
+    "words": [
+      {
+        "word": "work",
+        "meanings": [
+          "out"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "弄懂，明白"
+          },
+          {
+            "key": "B",
+            "meaning": "计算出"
+          },
+          {
+            "key": "C",
+            "meaning": "锻炼"
+          },
+          {
+            "key": "D",
+            "meaning": "进展"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Things just didn’t work out as planned."
+          },
+          {
+            "number": "②",
+            "content": "It’s becoming a trend for young people to work out in the gym.__"
+          },
+          {
+            "number": "③",
+            "content": "My mind raced as I tried to work out what was happening.__"
+          },
+          {
+            "number": "④",
+            "content": "Jack is so smart a boy that he can work out difficult maths problems quickly.__"
+          }
+        ]
+      },
+      {
+        "word": "sharp",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "adj.聪明的，敏锐的"
+          },
+          {
+            "key": "B",
+            "meaning": "adj.锋利的，锐利的"
+          },
+          {
+            "key": "C",
+            "meaning": "adj.突然的，剧烈的"
+          },
+          {
+            "key": "D",
+            "meaning": "adj.鲜明的，明显的"
+          },
+          {
+            "key": "E",
+            "meaning": "adj.尖酸的，刻薄的"
+          },
+          {
+            "key": "F",
+            "meaning": "adv.(用于表时间的词语后，表示准时)……整"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "We are leaving at 5 o’clock sharp.__"
+          },
+          {
+            "number": "②",
+            "content": "Don’t touch the sharp knife or you’ll hurt yourself.__"
+          },
+          {
+            "number": "③",
+            "content": "His sharp words seemed to hurt her very much.__"
+          },
+          {
+            "number": "④",
+            "content": "Shops are reporting a sharp rise in sales of organic produce.__"
+          },
+          {
+            "number": "⑤",
+            "content": "Some of these kids are pretty sharp when it comes to maths.__"
+          },
+          {
+            "number": "⑥",
+            "content": "The warm weather was in sharp contrast to last year’s cold temperature.__"
+          }
+        ]
+      },
+      {
+        "word": "highlight",
+        "meanings": [
+          "vt. 标出；突出显示"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n. 最好（或最精彩、最激动人心）的部分"
+          },
+          {
+            "key": "B",
+            "meaning": "vt. 标出"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 开始"
+          },
+          {
+            "key": "D",
+            "meaning": "n. 方向"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The spelling mistakes in the text had been highlighted in green. __"
+          },
+          {
+            "number": "②",
+            "content": "Highlights of the match will be shown after the news. __"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Group 10",
+    "words": [
+      {
+        "word": "host",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 主持"
+          },
+          {
+            "key": "B",
+            "meaning": "n.主持人"
+          },
+          {
+            "key": "C",
+            "meaning": "vt.主办"
+          },
+          {
+            "key": "D",
+            "meaning": "n.主人"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "We thanked our hosts for a very enjoyable evening.__"
+          },
+          {
+            "number": "②",
+            "content": "Last week, my classmate and I hosted an English Drama Festival. __"
+          },
+          {
+            "number": "③",
+            "content": "All these stadiums are still functional, still open and still hosting the biggest events in world sport."
+          },
+          {
+            "number": "④",
+            "content": "I am always one of the hosts at parties in my company. __"
+          }
+        ]
+      },
+      {
+        "word": "fuel",
+        "meanings": [
+          "n. 燃料"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 给……提供燃料"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 燃料"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 加强"
+          },
+          {
+            "key": "D",
+            "meaning": "vi. 停止"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Wood, coal, oil, petrol, and gas are all different kinds of fuel.__"
+          },
+          {
+            "number": "②",
+            "content": "Things are connected. Let your expertise in one field fuel your passions in all related areas.__"
+          },
+          {
+            "number": "③",
+            "content": "The helicopter was already fuelled and ready to go. __"
+          }
+        ]
+      },
+      {
+        "word": "handle",
+        "meanings": [
+          "vt. 处理(难题)；应付(局面)"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 处理（难题），应付（局面）"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 柄，把手"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 操纵，控制"
+          },
+          {
+            "key": "D",
+            "meaning": "adj. 好的"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "She turned the handle and slowly opened the door.__"
+          },
+          {
+            "number": "②",
+            "content": "I thought he handled the situation very well. __"
+          },
+          {
+            "number": "③",
+            "content": "I wasn’t sure if I could handle such a powerful car. __"
+          }
+        ]
+      },
+      {
+        "word": "raise",
+        "meanings": [
+          "vt. 提出，提起"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 提高"
+          },
+          {
+            "key": "B",
+            "meaning": "vt. 筹集"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 饲养"
+          },
+          {
+            "key": "D",
+            "meaning": "vt. 提出"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The workers in this factory strongly demanded to raise their salary.__"
+          },
+          {
+            "number": "②",
+            "content": "Over thousands of years, they began to depend less on what could be hunted or gathered from the wild, and more on animals they had raised and crops they had sown.__"
+          },
+          {
+            "number": "③",
+            "content": "At the front of the supermarket, a charity has set up a stand, selling cooked sausages and flowers to raise funds.__"
+          },
+          {
+            "number": "④",
+            "content": "The book raises many important questions. __"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Group 11",
+    "words": [
+      {
+        "word": "skip",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt.不参加；悄悄溜走"
+          },
+          {
+            "key": "B",
+            "meaning": "vt.不做(应做的事等)"
+          },
+          {
+            "key": "C",
+            "meaning": "v.跳绳"
+          },
+          {
+            "key": "D",
+            "meaning": "vt.跳过；略过"
+          },
+          {
+            "key": "E",
+            "meaning": "v. 蹦跳着走"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The girls were skipping on the playground. _"
+          },
+          {
+            "number": "②",
+            "content": "Most obviously，the men displayed lower blood sugar levels at the start of their workouts when they had skipped breakfast than when they had eaten. _"
+          },
+          {
+            "number": "③",
+            "content": "Skipping class is of no benefit to students. _"
+          },
+          {
+            "number": "④",
+            "content": "The next day morning, my heart skipped a beat when I didn’t see Spotty. _"
+          },
+          {
+            "number": "⑤",
+            "content": "She skipped happily along beside me. _"
+          }
+        ]
+      },
+      {
+        "word": "average",
+        "meanings": [
+          "adj.平庸的，普通的；平均的 n．平均水平；平均数"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 平均为"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 平均水平"
+          },
+          {
+            "key": "C",
+            "meaning": "adj. 平均的"
+          },
+          {
+            "key": "D",
+            "meaning": "adj. 普通的"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "To their joy，their son’s schoolwork is well above average. _"
+          },
+          {
+            "number": "②",
+            "content": "There was nothing special about the meal; it was average._"
+          },
+          {
+            "number": "③",
+            "content": "The average score in English is 105，which is good news for our teachers._"
+          },
+          {
+            "number": "④",
+            "content": "The Qinghai­Tibet Plateau is the world’s highest plateau，averaging over 4，000 metres above sea level. _"
+          }
+        ]
+      },
+      {
+        "word": "advanced",
+        "meanings": [
+          "adj.先进的，高级的；高龄的"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "adj. 高龄的"
+          },
+          {
+            "key": "B",
+            "meaning": "adj. 先进的"
+          },
+          {
+            "key": "C",
+            "meaning": "adj. 高级的"
+          },
+          {
+            "key": "D",
+            "meaning": "vt. 使用"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "This is the most advanced type of engine available._"
+          },
+          {
+            "number": "②",
+            "content": "Passing a written exam is a prerequisite for taking the advanced course. _"
+          },
+          {
+            "number": "③",
+            "content": "The gentleman, despite his advanced years, helped Kathryn back to her seat. __"
+          }
+        ]
+      },
+      {
+        "word": "label",
+        "meanings": [
+          "n．便签，标记 vt.贴标签于"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 贴标签于"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 标签"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 方法"
+          },
+          {
+            "key": "D",
+            "meaning": "vi. 工作"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "We attach labels to things before we file them away. __"
+          },
+          {
+            "number": "②",
+            "content": "The parcel was clearly labelled “Fragile”.  __"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Group 12",
+    "words": [
+      {
+        "word": "swallow",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt.掩饰；抑制"
+          },
+          {
+            "key": "B",
+            "meaning": "vt.吞下，咽下"
+          },
+          {
+            "key": "C",
+            "meaning": "vt.吞没；淹没；侵吞"
+          },
+          {
+            "key": "D",
+            "meaning": "vt.相信；信以为真"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "After the operation you may find it difficult to chew and swallow.__"
+          },
+          {
+            "number": "②",
+            "content": "I watched her walk down the road until she was swallowed by the darkness.__"
+          },
+          {
+            "number": "③",
+            "content": "I found her excuse very hard to swallow.__"
+          },
+          {
+            "number": "④",
+            "content": "You’re going to have to swallow your pride and ask for your job back.__"
+          }
+        ]
+      },
+      {
+        "word": "switch",
+        "meanings": [
+          "vi.&vt.转换，改变"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "v. 改变，转变"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 开关"
+          },
+          {
+            "key": "C",
+            "meaning": "v. 调班，临时调换工作时间"
+          },
+          {
+            "key": "D",
+            "meaning": "n. 问题"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Press these two keys to switch between documents on screen. __"
+          },
+          {
+            "number": "②",
+            "content": "I can’t work next weekend. Will you switch with me？__"
+          },
+          {
+            "number": "③",
+            "content": "You turn the television on by flipping the switch at the side. __"
+          }
+        ]
+      },
+      {
+        "word": "claim",
+        "meanings": [
+          "vt.声称；断言；主张 n．声称；(根据权力而提出的)要求"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 夺走"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 索要，索赔"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 认领"
+          },
+          {
+            "key": "D",
+            "meaning": "vt. 索回"
+          },
+          {
+            "key": "E",
+            "meaning": "vt. 宣称"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Heart disease is the biggest killer, claiming 180,000 lives per year. __"
+          },
+          {
+            "number": "②",
+            "content": "The scientist claimed to have discovered a new kind of medicine. __"
+          },
+          {
+            "number": "③",
+            "content": "You can claim your money back if the goods are damaged. __"
+          },
+          {
+            "number": "④",
+            "content": "The insurance company is refusing to settle her claim. __"
+          },
+          {
+            "number": "⑤",
+            "content": "If the owner doesn’t claim the dog in 48 hours，you can apply for adoption. __"
+          }
+        ]
+      },
+      {
+        "word": "carve",
+        "meanings": [
+          "vt.雕刻"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 雕刻"
+          },
+          {
+            "key": "B",
+            "meaning": "vt. 艰苦创业；奋斗取得（事业、名声等）"
+          },
+          {
+            "key": "C",
+            "meaning": "adj. 正确的"
+          },
+          {
+            "key": "D",
+            "meaning": "vt. 完成"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The wood had been carved into the shape of a flower. __"
+          },
+          {
+            "number": "②",
+            "content": "She has carved a place for herself in the fashion world.__"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Group 13",
+    "words": [
+      {
+        "word": "swing",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "v.摇晃，摇摆"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 秋千"
+          },
+          {
+            "key": "C",
+            "meaning": "v.突然转向"
+          },
+          {
+            "key": "D",
+            "meaning": "n. 结果"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "As he pushed her, she swung higher and higher.__"
+          },
+          {
+            "number": "②",
+            "content": "The bus swung sharply to the left.__"
+          },
+          {
+            "number": "③",
+            "content": "For the next two hours, I pushed the swings, and played with my two children and the little girl.__"
+          }
+        ]
+      },
+      {
+        "word": "collapse",
+        "meanings": [
+          "vi.突然倒下"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vi. 突然倒下"
+          },
+          {
+            "key": "B",
+            "meaning": "vi. 突然失败"
+          },
+          {
+            "key": "C",
+            "meaning": "vi. 贬值；暴跌"
+          },
+          {
+            "key": "D",
+            "meaning": "vi. （突然）倒塌，坍塌"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "One afternoon, while attempting to get into bed she collapsed from what was eventually discovered to be a heart attack."
+          },
+          {
+            "number": "②",
+            "content": "The roof collapsed under the weight of snow. __"
+          },
+          {
+            "number": "③",
+            "content": "Talks between management and unions have collapsed. __"
+          },
+          {
+            "number": "④",
+            "content": "Share prices collapsed after news of poor trading figures. __"
+          }
+        ]
+      },
+      {
+        "word": "consume",
+        "meanings": [
+          "vt.消耗；吃；消费"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 烧毁，毁灭"
+          },
+          {
+            "key": "B",
+            "meaning": "vt. 吃，喝"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 消耗"
+          },
+          {
+            "key": "D",
+            "meaning": "vi. 继续"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Many people are unaware of just how much food and drink they consume. __"
+          },
+          {
+            "number": "②",
+            "content": "These animals consumed large amounts of vegetation，which reduced plant diversity in the park. __"
+          },
+          {
+            "number": "③",
+            "content": "The hotel was quickly consumed by fire. __"
+          }
+        ]
+      },
+      {
+        "word": "appetite",
+        "meanings": [
+          "n．胃口；强烈欲望"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n. 胃口"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 强烈欲望"
+          },
+          {
+            "key": "C",
+            "meaning": "adj. 重要的"
+          },
+          {
+            "key": "D",
+            "meaning": "vt. 发展"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "He suffered from headaches and loss of appetite. __"
+          },
+          {
+            "number": "②",
+            "content": "Our appetite for new products also contributes to the problem. __"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Group 14",
+    "words": [
+      {
+        "word": "promote",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt.推广，宣传"
+          },
+          {
+            "key": "B",
+            "meaning": "vt.发起"
+          },
+          {
+            "key": "C",
+            "meaning": "vt.促进，推动"
+          },
+          {
+            "key": "D",
+            "meaning": "vt.晋升，升级"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "They discussed how to promote cooperation between the two countries.__"
+          },
+          {
+            "number": "②",
+            "content": "The company is promoting its new products on television.__"
+          },
+          {
+            "number": "③",
+            "content": "He worked hard and was soon promoted._"
+          },
+          {
+            "number": "④",
+            "content": "He promoted a campaign to remind the public of protecting the wildlife.__"
+          }
+        ]
+      },
+      {
+        "word": "stream",
+        "meanings": [
+          "n．水流"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vi. 流出，流动"
+          },
+          {
+            "key": "B",
+            "meaning": "n. （人）流"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 水流"
+          },
+          {
+            "key": "D",
+            "meaning": "n. 小河，溪"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The wall is 12 meters high and from here you can see streams of people moving inside and outside the City Wall._"
+          },
+          {
+            "number": "②",
+            "content": "Tears streamed down his face.__"
+          },
+          {
+            "number": "③",
+            "content": "The stream was quite shallow so we were able to walk across it.___"
+          },
+          {
+            "number": "④",
+            "content": "She stopped rowing and let the boat float with the stream. __"
+          }
+        ]
+      },
+      {
+        "word": "shadow",
+        "meanings": [
+          "n．阴影"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n. 阴影，影子"
+          },
+          {
+            "key": "B",
+            "meaning": "n. （坏）影响"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 少许；一丁点"
+          },
+          {
+            "key": "D",
+            "meaning": "n. 暗处；阴影处"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The sun shone through the leaves, casting shadows on the lawn__"
+          },
+          {
+            "number": "②",
+            "content": "Someone jumped out of the shadows and grabbed my handbag. __"
+          },
+          {
+            "number": "③",
+            "content": "These people have been living for years under the shadow of fear. __"
+          },
+          {
+            "number": "④",
+            "content": "A shadow of a smile touched his mouth. __"
+          }
+        ]
+      },
+      {
+        "word": "objective",
+        "meanings": [
+          "n．目的，目标  adj. 客观的"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "adj. 客观的"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 目标"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 意义"
+          },
+          {
+            "key": "D",
+            "meaning": "vi. 增长"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "I find it difficult to be objective where he’s concerned. __"
+          },
+          {
+            "number": "②",
+            "content": "The objective of most speeches is to benefit the audience. __"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Group 15",
+    "words": [
+      {
+        "word": "dismiss",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt.摒除，消除"
+          },
+          {
+            "key": "B",
+            "meaning": "vt.解雇"
+          },
+          {
+            "key": "C",
+            "meaning": "vt.不予考虑"
+          },
+          {
+            "key": "D",
+            "meaning": "n. 影响"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "A few officials were dismissed from their positions for taking bribes."
+          },
+          {
+            "number": "②",
+            "content": "Dismissing her fears, she climbed higher."
+          },
+          {
+            "number": "③",
+            "content": "He dismissed the opinion polls as worthless."
+          }
+        ]
+      },
+      {
+        "word": "outline",
+        "meanings": [
+          "vt.概述 n．纲要；外形"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n. 纲要"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 外形"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 显示……的轮廓，勾勒……的外形"
+          },
+          {
+            "key": "D",
+            "meaning": "adj. 快速的"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "On a misty day，we could only see the outline of the house through the mist.______"
+          },
+          {
+            "number": "②",
+            "content": "If you read the minutes of the meeting, they’ll give you a broad outline of what was discussed."
+          },
+          {
+            "number": "③",
+            "content": "They saw the huge building outlined against the sky. _"
+          }
+        ]
+      },
+      {
+        "word": "trap",
+        "meanings": [
+          "vt.困难，使陷入危险中"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 困住"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 圈套；诡计"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 设计陷阱（或夹子、捕捉器）捕捉；n. 陷阱"
+          },
+          {
+            "key": "D",
+            "meaning": "vt. 诱骗"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The farmer set a trap for rats and it trapped more than ten rats in total.______"
+          },
+          {
+            "number": "②",
+            "content": "The shopkeeper trapped me into buying a lot of products that I didn’t need.______"
+          },
+          {
+            "number": "③",
+            "content": "Don’t fall into the trap of investing all your money in one place.______"
+          },
+          {
+            "number": "④",
+            "content": "The two men died when they were trapped in a burning building.______"
+          }
+        ]
+      },
+      {
+        "word": "available",
+        "meanings": [
+          "adj.可获得的，可用的；有空的"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "adj. 可获得的"
+          },
+          {
+            "key": "B",
+            "meaning": "adj. 有空的"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 钢铁"
+          },
+          {
+            "key": "D",
+            "meaning": "adj. 强大的"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "I’m afraid I’m not available to help with the show on the 19th."
+          },
+          {
+            "number": "②",
+            "content": "Tickets are available free of charge from the school."
+          }
+        ]
+      },
+      {
+        "word": "novel",
+        "meanings": [
+          "n．(长篇)小说"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "adj. 新颖的，新奇的"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 小说"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 创建"
+          },
+          {
+            "key": "D",
+            "meaning": "vi. 移动"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "A few weeks into this school year, Lisa and I had co­authored a play based on our favorite novel, Little Women. ______"
+          },
+          {
+            "number": "②",
+            "content": "Keeping a sheep in the garden is a novel way of keeping the grass short! ______"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Group 16",
+    "words": [
+      {
+        "word": "credit",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n.赞扬，赞许"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 学分"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 为……赢得荣誉的人(或事物)"
+          },
+          {
+            "key": "D",
+            "meaning": "n.贷款"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The bank refused further credit to the company."
+          },
+          {
+            "number": "②",
+            "content": "She got no credit for solving the problem."
+          },
+          {
+            "number": "③",
+            "content": "Each of these classes is worth three credits."
+          },
+          {
+            "number": "④",
+            "content": "Such a student is a credit to his class."
+          }
+        ]
+      },
+      {
+        "word": "lower",
+        "meanings": [
+          "adj. (数字或数量)较小的；较低级的；下面的"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 降低"
+          },
+          {
+            "key": "B",
+            "meaning": "adj. 下面的"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 速度"
+          },
+          {
+            "key": "D",
+            "meaning": "adj. 聪明的"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "He lowered his eyes in embarrassment when he saw me."
+          },
+          {
+            "number": "②",
+            "content": "Her lower lip trembled as if she were about to cry."
+          }
+        ]
+      },
+      {
+        "word": "prospect",
+        "meanings": [
+          "n. 可能性，希望"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n. 景色，景观"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 前景"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 改变"
+          },
+          {
+            "key": "D",
+            "meaning": "n. 力量"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Most importantly, it has a most promising employment prospect. _____"
+          },
+          {
+            "number": "②",
+            "content": "From the restaurant there was a marvellous prospect of the valley and the mountains beyond.______"
+          }
+        ]
+      },
+      {
+        "word": "enclose",
+        "meanings": [
+          "vt. 将……围起来；随信附上"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 随信附上"
+          },
+          {
+            "key": "B",
+            "meaning": "vt. 将……围起来"
+          },
+          {
+            "key": "C",
+            "meaning": "adj. 大的"
+          },
+          {
+            "key": "D",
+            "meaning": "n. 时间"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The house has a small backyard, enclosed by a high brick wall.______"
+          },
+          {
+            "number": "②",
+            "content": "Please enclose a curriculum vitae with your application.______"
+          }
+        ]
+      },
+      {
+        "word": "preserve",
+        "meanings": [
+          "vt. 保存(食物)，腌制；维护，保护 n. 腌菜，果酱"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 保护"
+          },
+          {
+            "key": "B",
+            "meaning": "vt. 腌制"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 维持……的原状"
+          },
+          {
+            "key": "D",
+            "meaning": "vi. 生长"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "We want to preserve the character of the town while improving the facilities. ______"
+          },
+          {
+            "number": "②",
+            "content": "I like to make puree, using only enough sugar to preserve the plums.______"
+          },
+          {
+            "number": "③",
+            "content": "The society was set up to preserve endangered species from extinction. ______"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Group 17",
+    "words": [
+      {
+        "word": "wander",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "v.走神，开小差"
+          },
+          {
+            "key": "B",
+            "meaning": "v.(道路或河流) 蜿蜒；迂回曲折"
+          },
+          {
+            "key": "C",
+            "meaning": "v.(人的眼睛) 慢慢地移开"
+          },
+          {
+            "key": "D",
+            "meaning": "v.徘徊，闲逛"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "His eyes wandered towards the photographs on the wall.______"
+          },
+          {
+            "number": "②",
+            "content": "She was found several hours later, wandering the streets, lost.______"
+          },
+          {
+            "number": "③",
+            "content": "People’s attention wanders constantly. In fact, most people only absorb about 20 percent of a speaker’s message.______"
+          },
+          {
+            "number": "④",
+            "content": "The road wanders along through the hills.______"
+          }
+        ]
+      },
+      {
+        "word": "sweep",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vi.突然袭来"
+          },
+          {
+            "key": "B",
+            "meaning": "vi.扫视，掠过"
+          },
+          {
+            "key": "C",
+            "meaning": "vt.打扫，清除"
+          },
+          {
+            "key": "D",
+            "meaning": "vi.迅速传播"
+          },
+          {
+            "key": "E",
+            "meaning": "vi.猛烈吹过；掠过"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "He swept the leaves up into a pile.______"
+          },
+          {
+            "number": "②",
+            "content": "Rain swept in through the broken windows.______"
+          },
+          {
+            "number": "③",
+            "content": "A wave of tiredness swept over her.______"
+          },
+          {
+            "number": "④",
+            "content": "Rumours of his resignation swept through the company.______"
+          },
+          {
+            "number": "⑤",
+            "content": "His eyes swept around the room.______"
+          }
+        ]
+      },
+      {
+        "word": "strike",
+        "meanings": [
+          "vi.&vt.打，击，撞；突然发生不幸；n.罢工；打击"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 使突然想起"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 罢工"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. （钟表）敲，鸣，报时"
+          },
+          {
+            "key": "D",
+            "meaning": "vt. （灾难，疾病等）袭击"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "A big earthquake struck the city last year，killing hundreds of people.______"
+          },
+          {
+            "number": "②",
+            "content": "It struck me that playing against the other team was a great learning moment for all the girls on the team.______"
+          },
+          {
+            "number": "③",
+            "content": "It is by no means clear what the president can do to end the strike. ______"
+          },
+          {
+            "number": "④",
+            "content": "I got up early this morning before the clock struck five. ______"
+          }
+        ]
+      },
+      {
+        "word": "blanket",
+        "meanings": [
+          "n．毯子，毛毯"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 以厚层覆盖"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 毯子"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 水平"
+          },
+          {
+            "key": "D",
+            "meaning": "adj. 新的"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "She put a blanket over the sleeping child. ______"
+          },
+          {
+            "number": "②",
+            "content": "Outside the fields were blanketed in fog. ______"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Group 18",
+    "words": [
+      {
+        "word": "pose",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "v.构成，造成(威胁、问题等)"
+          },
+          {
+            "key": "B",
+            "meaning": "v.摆姿势"
+          },
+          {
+            "key": "C",
+            "meaning": "v.提出(问题)"
+          },
+          {
+            "key": "D",
+            "meaning": "vt. 开始"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "How could I possibly take the time to pose for a sculpture now？ __"
+          },
+          {
+            "number": "②",
+            "content": "And the story poses an interesting question: why do some people discover new vitality and creativity to the end of their days, while others go to seed long before？__"
+          },
+          {
+            "number": "③",
+            "content": "The students were deported because they posed a threat to national security.__"
+          }
+        ]
+      },
+      {
+        "word": "contain",
+        "meanings": [
+          "vt.包含，容纳，装盛"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 容纳"
+          },
+          {
+            "key": "B",
+            "meaning": "vt. 控制（情绪）"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 方向"
+          },
+          {
+            "key": "D",
+            "meaning": "vi. 停止"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "I lost a file containing a lot of important documents.__"
+          },
+          {
+            "number": "②",
+            "content": "She could no longer contain her anger and started yelling at him.__"
+          }
+        ]
+      },
+      {
+        "word": "underline",
+        "meanings": [
+          "vt.强调，使突出；在……之下划线"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 强调"
+          },
+          {
+            "key": "B",
+            "meaning": "vt. 在……之下划线"
+          },
+          {
+            "key": "C",
+            "meaning": "adj. 好的"
+          },
+          {
+            "key": "D",
+            "meaning": "vt. 使用"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The report underlines the importance of preschool education. __"
+          },
+          {
+            "number": "②",
+            "content": "He wrote down the title of the essay and underlined it. __"
+          }
+        ]
+      },
+      {
+        "word": "nerve",
+        "meanings": [
+          "n．神经；焦虑，恐惧，紧张"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n. 神经"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 勇气"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 方法"
+          },
+          {
+            "key": "D",
+            "meaning": "vi. 工作"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "It takes a lot of nerve to be a bomb disposal expert. __"
+          },
+          {
+            "number": "②",
+            "content": "Repairing damaged nerves is a very delicate operation. __"
+          }
+        ]
+      },
+      {
+        "word": "explode",
+        "meanings": [
+          "vi.&vt. (使)爆炸；急剧增长"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vi. 急剧增长"
+          },
+          {
+            "key": "B",
+            "meaning": "vi. 爆炸"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 问题"
+          },
+          {
+            "key": "D",
+            "meaning": "adj. 正确的"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "French strawberries do not taste like cardboard. Instead, they explode in your mouth like little flavor bombs. __"
+          },
+          {
+            "number": "②",
+            "content": "The population explodes to 40，000 during the tourist season. __"
+          }
+        ]
+      },
+      {
+        "word": "launch",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n.发行"
+          },
+          {
+            "key": "B",
+            "meaning": "v.发起"
+          },
+          {
+            "key": "C",
+            "meaning": "v.发射"
+          },
+          {
+            "key": "D",
+            "meaning": "v.推出"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "China successfully launched a spacecraft to the far side of the moon, which, contrary to misunderstanding, is not always dark.______"
+          },
+          {
+            "number": "②",
+            "content": "The manager has decided to hold a party to celebrate the successful launch of the new magazine.______"
+          },
+          {
+            "number": "③",
+            "content": "There is a growing need for smartphones and many companies are trying to launch new models.______"
+          },
+          {
+            "number": "④",
+            "content": "A range of green campaigns have been launched globally in response to the gravity of the climate crisis.______"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Group 19",
+    "words": [
+      {
+        "word": "freeze",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 冷冻贮藏"
+          },
+          {
+            "key": "B",
+            "meaning": "vi. 结冰"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 冻结"
+          },
+          {
+            "key": "D",
+            "meaning": "vi. 惊呆，吓呆"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "When the lake freezes, we can go skating on it.__"
+          },
+          {
+            "number": "②",
+            "content": "I’ll freeze any food that’s left over. __"
+          },
+          {
+            "number": "③",
+            "content": "The governor’s action freezes 300，000 accounts. __"
+          },
+          {
+            "number": "④",
+            "content": "I froze with terror as the door slowly opened. __"
+          }
+        ]
+      },
+      {
+        "word": "chain",
+        "meanings": [
+          "n．一连串，一系列；链子，链条"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "n. 连锁店"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 一连串"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 链子"
+          },
+          {
+            "key": "D",
+            "meaning": "vt. 完成"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "She has built up a chain of 180 bookshops across the country.__"
+          },
+          {
+            "number": "②",
+            "content": "She wore a heavy gold chain around her neck.__"
+          },
+          {
+            "number": "③",
+            "content": "The supermarket chain announced that it was cutting the cost of all its fresh and frozen meat.__"
+          }
+        ]
+      },
+      {
+        "word": "release",
+        "meanings": [
+          "vt.&n.发表，发布；释放"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 放开，放手"
+          },
+          {
+            "key": "B",
+            "meaning": "vt. 公布，发布"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 发行，上映"
+          },
+          {
+            "key": "D",
+            "meaning": "vt. 发泄"
+          },
+          {
+            "key": "E",
+            "meaning": "vt. 释放"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Firefighters took two hours to release the driver from the wreckage.__"
+          },
+          {
+            "number": "②",
+            "content": "He stopped and faced her, releasing her wrist.__"
+          },
+          {
+            "number": "③",
+            "content": "He punched the pillow in an effort to release his anger.__"
+          },
+          {
+            "number": "④",
+            "content": "The mayor has released a statement explaining the reasons for his resignation.__"
+          },
+          {
+            "number": "⑤",
+            "content": "The band’s latest album will be released next week.__"
+          }
+        ]
+      },
+      {
+        "word": "document",
+        "meanings": [
+          "n．公文，文件"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 记录，记载"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 文件"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 结果"
+          },
+          {
+            "key": "D",
+            "meaning": "vi. 继续"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "His interest in cars has been well documented by the media.__"
+          },
+          {
+            "number": "②",
+            "content": "Please sign one copy of the document and return it to us as soon as possible.__"
+          }
+        ]
+      },
+      {
+        "word": "overcome",
+        "meanings": [
+          "vt. 克服(困难)，控制(感情)；征服，战胜"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 征服，战胜"
+          },
+          {
+            "key": "B",
+            "meaning": "vt. 克服"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 受……的影响"
+          },
+          {
+            "key": "D",
+            "meaning": "adj. 重要的"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Eventually she managed to overcome her shyness in class.__"
+          },
+          {
+            "number": "②",
+            "content": "In the final game Sweden easily overcame France.__"
+          },
+          {
+            "number": "③",
+            "content": "The night before the test I was overcome by fear and despair.__"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Group 20",
+    "words": [
+      {
+        "word": "loose",
+        "meanings": [],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "adj. 松的，松动的"
+          },
+          {
+            "key": "B",
+            "meaning": "adj. 松的；宽大的"
+          },
+          {
+            "key": "C",
+            "meaning": "adj. (头发)松散的，披着的"
+          },
+          {
+            "key": "D",
+            "meaning": "adj. 未严加控制的；不严谨的"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Wear comfortable，loose clothing to your exercise class.__"
+          },
+          {
+            "number": "②",
+            "content": "If the structure of your speech is loose and confused, chances are that your thinking is also disordered and confused. __"
+          },
+          {
+            "number": "③",
+            "content": "The nails in the wall had worked themselves loose.__"
+          },
+          {
+            "number": "④",
+            "content": "Her hair was hanging loose to her shoulders.__"
+          }
+        ]
+      },
+      {
+        "word": "tailor",
+        "meanings": [
+          "n．(男装)裁缝"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 专门制作；订做"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 裁缝"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 发展"
+          },
+          {
+            "key": "D",
+            "meaning": "n. 意义"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "The tailor gave an assurance that her dress would be ready by Friday.__"
+          },
+          {
+            "number": "②",
+            "content": "Special programmes of study are tailored to the needs of specific groups.__"
+          }
+        ]
+      },
+      {
+        "word": "withdraw",
+        "meanings": [
+          "vi.&vt. (使)退出(活动、组织等)"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vi. 退出"
+          },
+          {
+            "key": "B",
+            "meaning": "vt. 提，取（银行账户中的款）"
+          },
+          {
+            "key": "C",
+            "meaning": "vt. 撤离"
+          },
+          {
+            "key": "D",
+            "meaning": "vi. 增长"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "Your ID card is required when you want to withdraw money in a bank.______"
+          },
+          {
+            "number": "②",
+            "content": "The commander admitted defeat and decided to withdraw troops from the country.____"
+          },
+          {
+            "number": "③",
+            "content": "When he selects news of the other kind, he usually withdraws from the world of threatening reality toward the dream world.______"
+          }
+        ]
+      },
+      {
+        "word": "pile",
+        "meanings": [
+          "n．一大堆"
+        ],
+        "options": [
+          {
+            "key": "A",
+            "meaning": "vt. 堆放，摞起"
+          },
+          {
+            "key": "B",
+            "meaning": "n. 一大堆"
+          },
+          {
+            "key": "C",
+            "meaning": "n. 影响"
+          },
+          {
+            "key": "D",
+            "meaning": "adj. 快速的"
+          }
+        ],
+        "examples": [
+          {
+            "number": "①",
+            "content": "She looked in horror at the mounting pile of letters on her desk. __"
+          },
+          {
+            "number": "②",
+            "content": "Please pile your homework books neatly on the table as you leave. __"
+          }
+        ]
+      }
+    ]
+  }
+]

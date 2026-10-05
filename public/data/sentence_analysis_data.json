@@ -1,0 +1,294 @@
+{
+  "moduleName": "句子成分分析",
+  "knowledgePoints": [
+    {
+      "id": 1,
+      "title": "一、主语",
+      "content": "句子的主体，是谓语陈述说明的对象——动作的发出者。充当主语的可以由名词、代词、v-ing、to do或者由what, that, how等引导的从句组成。",
+      "examples": [
+        "The secret of success lies in one's patience.",
+        "To see is to believe.",
+        "Watching a movie is pleasure, but making a movie is hard work.",
+        "What he said annoyed the audience.",
+        "It is quite common these days for young people in many countries to have a break from studying after graduating from high school."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "二、谓语",
+      "content": "英语句子的灵魂；说明主语的动作、状态或特征——动作。充当谓语的形式：以某种时态形式出现的动词。\n▲ 非常重要！一句话中只能有一个动词作谓语；如再出现动词则只能以：1）并列谓语；2）从句谓语；3）非谓语的形式出现！",
+      "examples": [
+        "When he got up, a big plan occurred to him.",
+        "The watch is necessary in our daily life, but its function is too simple and dull.",
+        "We may have different opinions in organizing class activities."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "三、宾语",
+      "content": "动作行为的对象，跟在及物动词之后——动作的承受者。",
+      "examples": [
+        "Some adults use a computer for other purposes, such as getting information or emailing friends.",
+        "The angel came to Joseph and told him the same thing.",
+        "Have you decided to quit the job?",
+        "Nobody believed what the speaker expressed.",
+        "Our success depends on how well we can cooperate with one another."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "四、表语",
+      "content": "说明主语的身份和情况（跟在系动词后）。系动词主要有：be动词，感官动词look, taste, smell, feel, sound；表状态变化的动词get, become, turn, grow, seem, appear, keep, remain, go",
+      "examples": [
+        "The world inside the school walls is different from the world outside those walls.",
+        "Although the answer seemed a little strange, nobody but I doubted it.",
+        "The important thing is to learn and control your temper.",
+        "Several minutes passed but the whole class was in complete silence."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "五、补语",
+      "content": "作补充说明的功能，重点掌握宾补。主要出于这个结构：v. + n. + n./adj.",
+      "examples": [
+        "They caught the boy stealing.",
+        "Popular science books can help us to become more interested in science and nature.",
+        "Many people felt their rewards unfair, especially when comparing their earnings with those of super stars."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "六、定语",
+      "content": "对名词进行修饰，按位置分为前置或后置定语。",
+      "examples": [
+        "Everyone is attracted by the beautiful music.",
+        "He regretted the valuable time that he had wasted on the computer games.",
+        "In the 1960s a British car company which made very expensive cars was about to sell its latest car in Germany."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "七、同位语",
+      "content": "对前面的名词或代词进行补充说明或解释。",
+      "examples": [
+        "Liuzhou, the dragon city, lies in the middle part of Guangxi Province.",
+        "Social sciences, the sciences that deal with human life, came into being in Europe in the early nineteenth century.",
+        "I hold the opinion that we should help them to overcome the present difficulty.",
+        "We are going to celebrate the Spring Festival, a holiday for all Chinese to get together and share happiness."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "八、状语",
+      "content": "可以修饰动词、形容词或者全句，表示行为发生的时间、地点、程度、频度、方式、伴随、原因、目的、比较等，位置灵活。状语可以由副词、介词短语、分词、不定式、从句组成。",
+      "examples": [
+        "With his help, we worked out this problem.",
+        "Feeling satisfied with the waiter, he gave ten dollars as a tip.",
+        "To compete with others, more and more people equip themselves with a higher education.",
+        "After a long trip, he returned home, safe and sound."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "请划出下列句中的主语：\nThe teacher with two of his students is walking into the classroom.",
+      "type": "choice",
+      "options": ["The teacher", "with two of his students", "is walking", "into the classroom"],
+      "correctAnswer": "The teacher",
+      "explanation": "句子的主语是The teacher，是动作is walking的发出者。with two of his students是介词短语作定语。"
+    },
+    {
+      "id": 2,
+      "question": "请划出下列句中的主语：\nThere is an old man coming here.",
+      "type": "choice",
+      "options": ["There", "is", "an old man", "coming here"],
+      "correctAnswer": "an old man",
+      "explanation": "There be句型中，真正的主语是be动词后面的名词，即an old man。"
+    },
+    {
+      "id": 3,
+      "question": "请划出下列句中的主语：\nThe useful dictionary was given by my mother last year.",
+      "type": "choice",
+      "options": ["The useful dictionary", "was given", "by my mother", "last year"],
+      "correctAnswer": "The useful dictionary",
+      "explanation": "句子的主语是The useful dictionary，是动作was given的承受者（被动语态）。"
+    },
+    {
+      "id": 4,
+      "question": "请划出下列句中的主语：\nTo do today's homework without the teacher's help is very difficult",
+      "type": "choice",
+      "options": ["To do today's homework", "without the teacher's help", "is very difficult", "difficult"],
+      "correctAnswer": "To do today's homework without the teacher's help",
+      "explanation": "不定式短语To do today's homework without the teacher's help作主语。"
+    },
+    {
+      "id": 5,
+      "question": "请划出下列句中的谓语：\nI don't like the picture on the wall.",
+      "type": "choice",
+      "options": ["I", "don't", "like", "the picture"],
+      "correctAnswer": "don't like",
+      "explanation": "句子的谓语是don't like，说明主语I对picture的态度。"
+    },
+    {
+      "id": 6,
+      "question": "请划出下列句中的谓语：\nThe days get longer and longer when summer comes.",
+      "type": "choice",
+      "options": ["The days", "get longer and longer", "when summer", "comes"],
+      "correctAnswer": "get longer and longer",
+      "explanation": "句子的谓语是get longer and longer，说明主语The days的状态变化。"
+    },
+    {
+      "id": 7,
+      "question": "请划出下列句中的谓语：\nDo you usually go to school by bus?",
+      "type": "choice",
+      "options": ["Do", "you usually", "go to school", "by bus"],
+      "correctAnswer": "Do...go to school",
+      "explanation": "疑问句中，助动词Do + 实义动词go构成谓语。"
+    },
+    {
+      "id": 8,
+      "question": "请划出下列句中的谓语：\nThere will be a meeting at the library this afternoon.",
+      "type": "choice",
+      "options": ["There", "will be", "a meeting", "at the library"],
+      "correctAnswer": "will be",
+      "explanation": "There be句型中，谓语是will be。"
+    },
+    {
+      "id": 9,
+      "question": "请划出下列句中的表语：\nThe old man was feeling very tired.",
+      "type": "choice",
+      "options": ["The old man", "was feeling", "very tired", "tired"],
+      "correctAnswer": "very tired",
+      "explanation": "句中的表语是very tired，说明主语the old man的状态。"
+    },
+    {
+      "id": 10,
+      "question": "请划出下列句中的表语：\nWhy is he worried about Jim?",
+      "type": "choice",
+      "options": ["Why", "is", "worried about Jim", "Jim"],
+      "correctAnswer": "worried about Jim",
+      "explanation": "worried about Jim作表语，说明主语he的状态。"
+    },
+    {
+      "id": 11,
+      "question": "请划出下列句中的表语：\nThe leaves have turned yellow.",
+      "type": "choice",
+      "options": ["The leaves", "have turned", "yellow", "turned"],
+      "correctAnswer": "yellow",
+      "explanation": "yellow作表语，说明主语The leaves的颜色变化。"
+    },
+    {
+      "id": 12,
+      "question": "请划出下列句中的表语：\nSoon they all became interested in the subject.",
+      "type": "choice",
+      "options": ["Soon", "they all became", "interested in the subject", "the subject"],
+      "correctAnswer": "interested in the subject",
+      "explanation": "interested in the subject作表语，说明主语they的状态。"
+    },
+    {
+      "id": 13,
+      "question": "请划出下列句中的表语：\nShe was the first to learn about it.",
+      "type": "choice",
+      "options": ["She", "was", "the first to learn about it", "to learn about it"],
+      "correctAnswer": "the first to learn about it",
+      "explanation": "the first to learn about it作表语，说明主语She的身份。"
+    },
+    {
+      "id": 14,
+      "question": "请划出下列句中的宾语：\nMy brother hasn't done his homework.",
+      "type": "choice",
+      "options": ["My brother", "hasn't done", "his homework", "homework"],
+      "correctAnswer": "his homework",
+      "explanation": "句中的宾语是his homework，是动作done的承受者。"
+    },
+    {
+      "id": 15,
+      "question": "请划出下列句中的宾语：\nPeople all over the world speak English.",
+      "type": "choice",
+      "options": ["People", "all over the world", "speak", "English"],
+      "correctAnswer": "English",
+      "explanation": "句中的宾语是English，是动作speak的承受者。"
+    },
+    {
+      "id": 16,
+      "question": "请划出下列句中的宾语：\nYou must pay good attention to your pronunciation.",
+      "type": "choice",
+      "options": ["You must pay", "good attention", "to your pronunciation", "your pronunciation"],
+      "correctAnswer": "good attention",
+      "explanation": "句中的宾语是good attention，pay attention to是固定搭配。"
+    },
+    {
+      "id": 17,
+      "question": "请划出下列句中的宾语：\nHow many new words did you learn last class?",
+      "type": "choice",
+      "options": ["How many", "new words", "did you learn", "last class"],
+      "correctAnswer": "new words",
+      "explanation": "句中的宾语是new words，是动作learn的承受者。"
+    },
+    {
+      "id": 18,
+      "question": "请划出下列句中的宾语：\nSome of the students in the school want to go swimming.",
+      "type": "choice",
+      "options": ["Some of the students", "in the school", "want", "to go swimming"],
+      "correctAnswer": "to go swimming",
+      "explanation": "句中的宾语是to go swimming，不定式短语作宾语。"
+    },
+    {
+      "id": 19,
+      "question": "请划出下列句中的宾语补足语：\nShe likes the children to read newspapers and books in the reading-room.",
+      "type": "choice",
+      "options": ["She likes", "the children", "to read newspapers and books", "in the reading-room"],
+      "correctAnswer": "to read newspapers and books in the reading-room",
+      "explanation": "句中的宾语补足语是to read newspapers and books in the reading-room，对宾语the children进行补充说明。"
+    },
+    {
+      "id": 20,
+      "question": "请划出下列句中的宾语补足语：\nHe asked her to take the boy out of school.",
+      "type": "choice",
+      "options": ["He asked", "her", "to take the boy out of school", "out of school"],
+      "correctAnswer": "to take the boy out of school",
+      "explanation": "句中的宾语补足语是to take the boy out of school，对宾语her进行补充说明。"
+    },
+    {
+      "id": 21,
+      "question": "请划出下列句中的直接宾语和间接宾语：\nPlease tell us a story.",
+      "type": "choice",
+      "options": ["tell=谓语，us=间接宾语，a story=直接宾语", "tell=谓语，us=直接宾语，a story=间接宾语", "Please=谓语，us=间接宾语，a story=直接宾语", "tell=谓语，a story=直接宾语，us=间接宾语"],
+      "correctAnswer": "tell=谓语，us=间接宾语，a story=直接宾语",
+      "explanation": "tell是谓语，us是间接宾语，a story是直接宾语。tell sb sth结构。"
+    },
+    {
+      "id": 22,
+      "question": "请划出下列句中的直接宾语和间接宾语：\nMy father bought a new bike for me last week.",
+      "type": "choice",
+      "options": ["bought=谓语，a new bike=直接宾语，for me=介词短语", "bought=谓语，a new bike=间接宾语，me=直接宾语", "bought=谓语，a new bike=直接宾语，me=间接宾语", "bought=谓语，me=直接宾语，a new bike=间接宾语"],
+      "correctAnswer": "bought=谓语，a new bike=直接宾语，me=间接宾语",
+      "explanation": "bought是谓语，a new bike是直接宾语，me是间接宾语。buy sth for sb结构。"
+    },
+    {
+      "id": 23,
+      "question": "请判断以下是否为句子：\nbirds can fly",
+      "type": "choice",
+      "options": ["句子", "短语"],
+      "correctAnswer": "句子",
+      "explanation": "birds can fly有完整的主谓结构，是句子。"
+    },
+    {
+      "id": 24,
+      "question": "请判断以下是否为句子：\nthe birds in the cage which I bought yesterday",
+      "type": "choice",
+      "options": ["句子", "短语"],
+      "correctAnswer": "短语",
+      "explanation": "这是一个名词短语，没有谓语动词。"
+    },
+    {
+      "id": 25,
+      "question": "请判断以下是否为句子：\nwait for me at the station.",
+      "type": "choice",
+      "options": ["句子", "短语"],
+      "correctAnswer": "句子",
+      "explanation": "wait for me at the station有完整的主谓结构（省略了主语you），是句子。"
+    }
+  ]
+}

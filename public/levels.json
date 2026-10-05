@@ -1,0 +1,464 @@
+{
+  "worlds": [
+    {
+      "id": 1,
+      "name": "World 1: 完全倒装",
+      "description": "掌握完全倒装句式的识别与应用",
+      "color": "blue",
+      "levels": [
+        {
+          "id": 1,
+          "name": "Level 1: There be & 变体",
+          "description": "There be 句型及其变体的倒装用法",
+          "knowledge": [
+            "There be 句型本身就是倒装结构",
+            "There 位于句首，be 动词在后",
+            "There seems/appears/happens to be 等变体"
+          ],
+          "learningQuestions": [
+            {
+              "question": "There _______ a lot of books on the shelf.",
+              "blankIndex": 5,
+              "options": ["is", "are", "was", "were"],
+              "correctAnswer": "are",
+              "explanation": "主语是 a lot of books，be动词用 are"
+            },
+            {
+              "question": "There _______ many reasons for his success.",
+              "blankIndex": 5,
+              "options": ["is", "are", "was", "were"],
+              "correctAnswer": "are",
+              "explanation": "主语是 many reasons，be动词用 are"
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "type": "fill",
+              "question": "There _______ a big tree in front of the house.",
+              "options": ["is", "are", "was", "were"],
+              "correctAnswer": "is",
+              "explanation": "主语是单数 a big tree，用 is"
+            },
+            {
+              "type": "translate",
+              "question": "翻译：桌上有三个苹果。",
+              "options": [
+                "There is three apples on the table.",
+                "There are three apples on the table.",
+                "Three apples are on the table.",
+                "There have three apples on the table."
+              ],
+              "correctAnswer": 1,
+              "explanation": "There be 结构表示存在，主语是复数用 are"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Level 2: 地点/方向副词倒装",
+          "description": "地点和方向副词置于句首的倒装",
+          "knowledge": [
+            "Here/There/Now/Then 等副词置于句首",
+            "句子需完全倒装",
+            "主语必须是名词，不能是代词"
+          ],
+          "learningQuestions": [
+            {
+              "question": "Here _______ the bus.",
+              "blankIndex": 5,
+              "options": ["comes", "come", "is coming", "came"],
+              "correctAnswer": "comes",
+              "explanation": "Here置于句首，动词comes置于主语the bus之前"
+            },
+            {
+              "question": "There _______ the famous singer.",
+              "blankIndex": 5,
+              "options": ["goes", "go", "went", "going"],
+              "correctAnswer": "goes",
+              "explanation": "There置于句首，动词goes置于主语之前"
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "type": "fill",
+              "question": "Here _______ your letter.",
+              "options": ["comes", "come", "is", "are"],
+              "correctAnswer": "comes",
+              "explanation": "Here置于句首，用完全倒装"
+            },
+            {
+              "type": "fill",
+              "question": "Now _______ your turn.",
+              "options": ["comes", "come", "is coming", "came"],
+              "correctAnswer": "comes",
+              "explanation": "Now置于句首，动词comes置于主语your turn之前"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Level 3: 表语前置倒装",
+          "description": "表语置于句首的完全倒装用法",
+          "knowledge": [
+            "形容词、分词、介词短语作表语置于句首",
+            "强调表语的内容",
+            "句子需完全倒装"
+          ],
+          "learningQuestions": [
+            {
+              "question": "Lying on the floor _______ a wounded soldier.",
+              "blankIndex": 16,
+              "options": ["was", "is", "were", "had"],
+              "correctAnswer": "was",
+              "explanation": "分词短语Lying on the floor置于句首，be动词was后置"
+            },
+            {
+              "question": "Present at the meeting _______ many experts.",
+              "blankIndex": 18,
+              "options": ["were", "was", "are", "have"],
+              "correctAnswer": "were",
+              "explanation": "形容词短语Present at the meeting置于句首，be动词were后置"
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "type": "fill",
+              "question": "Standing by the door _______ a tall man.",
+              "options": ["was", "is", "were", "had"],
+              "correctAnswer": "was",
+              "explanation": "现在分词短语Standing by the door置于句首，be动词后置"
+            },
+            {
+              "type": "translate",
+              "question": "翻译：房间坐满了学生。",
+              "options": [
+                "Students sit full in the room.",
+                "The room was filled with students.",
+                "Seated in the room were many students.",
+                "Filled the room were students."
+              ],
+              "correctAnswer": 2,
+              "explanation": "Seated in the room置于句首，be动词were后置"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "World 2: 部分倒装（否定与限定）",
+      "description": "掌握否定词和限定词引起的部分倒装",
+      "color": "purple",
+      "levels": [
+        {
+          "id": 4,
+          "name": "Level 4: 否定副词开头",
+          "description": "Never/Seldom/Not until 等否定副词句首倒装",
+          "knowledge": [
+            "Never/Seldom/Rarely/Not until 等否定副词置于句首",
+            "句子需部分倒装（助动词/情态动词前置）",
+            "时态要与原句保持一致"
+          ],
+          "learningQuestions": [
+            {
+              "question": "Never _______ I seen such a beautiful sunset.",
+              "blankIndex": 6,
+              "options": ["have", "had", "has", "did"],
+              "correctAnswer": "have",
+              "explanation": "Never置于句首，现在完成时需倒装，助动词have前置"
+            },
+            {
+              "question": "Seldom _______ he go to the cinema.",
+              "blankIndex": 7,
+              "options": ["does", "did", "do", "is"],
+              "correctAnswer": "does",
+              "explanation": "Seldom置于句首，一般现在时需倒装，助动词does前置"
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "type": "fill",
+              "question": "Not until midnight _______ he finish his homework.",
+              "options": ["did", "does", "was", "had"],
+              "correctAnswer": "did",
+              "explanation": "Not until置于句首，一般过去时需倒装，助动词did前置"
+            },
+            {
+              "type": "fill",
+              "question": "Rarely _______ we see such talent.",
+              "options": ["do", "does", "did", "have"],
+              "correctAnswer": "do",
+              "explanation": "Rarely置于句首，一般现在时需倒装，助动词do前置"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Level 5: Only+状语",
+          "description": "Only + 状语置于句首的倒装用法",
+          "knowledge": [
+            "Only + 副词/介词短语/状语从句置于句首",
+            "主句需部分倒装",
+            "从句不倒装，仅主句倒装"
+          ],
+          "learningQuestions": [
+            {
+              "question": "Only then _______ he realize his mistake.",
+              "blankIndex": 10,
+              "options": ["did", "does", "was", "had"],
+              "correctAnswer": "did",
+              "explanation": "Only then置于句首，一般过去时需倒装，助动词did前置"
+            },
+            {
+              "question": "Only in this way _______ we solve the problem.",
+              "blankIndex": 13,
+              "options": ["can", "could", "may", "might"],
+              "correctAnswer": "can",
+              "explanation": "Only + 介词短语置于句首，情态动词can前置"
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "type": "fill",
+              "question": "Only when he arrived _______ he find the truth.",
+              "options": ["did", "does", "was", "had"],
+              "correctAnswer": "did",
+              "explanation": "Only + 时间状语从句置于句首，主句部分倒装"
+            },
+            {
+              "type": "translate",
+              "question": "翻译：只有你努力工作，你才能成功。",
+              "options": [
+                "Only if you work hard you can succeed.",
+                "Only if you work hard can you succeed.",
+                "Only you work hard can you succeed.",
+                "You can succeed only if you work hard."
+              ],
+              "correctAnswer": 1,
+              "explanation": "Only if置于句首，主句部分倒装，情态动词can前置"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Level 6: 虚拟语气省略 if",
+          "description": "虚拟语气中省略 if 的倒装用法",
+          "knowledge": [
+            "Were/Had/Should 置于句首代替 if",
+            "条件句中的 if 省略",
+            "句子部分倒装"
+          ],
+          "learningQuestions": [
+            {
+              "question": "_______ I in your position, I would accept the offer.",
+              "blankIndex": 0,
+              "options": ["Were", "Was", "Had", "Did"],
+              "correctAnswer": "Were",
+              "explanation": "虚拟语气中省略 if，Were 提到句首"
+            },
+            {
+              "question": "_______ I known the truth earlier, I would have told you.",
+              "blankIndex": 0,
+              "options": ["Had", "Have", "Did", "Were"],
+              "correctAnswer": "Had",
+              "explanation": "虚拟语气中省略 if，Had 提到句首"
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "type": "fill",
+              "question": "_______ it rain tomorrow, we would cancel the picnic.",
+              "options": ["Should", "Would", "Could", "Did"],
+              "correctAnswer": "Should",
+              "explanation": "虚拟语气中省略 if，Should 提到句首"
+            },
+            {
+              "type": "translate",
+              "question": "翻译：如果我有钱，我就买那辆车。",
+              "options": [
+                "Had I money, I would buy that car.",
+                "Were I to have money, I would buy that car.",
+                "Did I have money, I would buy that car.",
+                "If I had money, I would buy that car."
+              ],
+              "correctAnswer": 1,
+              "explanation": "虚拟语气中省略 if，Were 提到句首"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "World 3: 部分倒装（结构与特殊）",
+      "description": "掌握特殊句式结构引起的倒装",
+      "color": "green",
+      "levels": [
+        {
+          "id": 7,
+          "name": "Level 7: So/Nor/Neither 结构",
+          "description": "So/Nor/Neither 引起的倒装用法",
+          "knowledge": [
+            "So/Nor/Neither + 助动词/情态动词 + 主语",
+            "表示相同或相反的情况",
+            "部分倒装结构"
+          ],
+          "learningQuestions": [
+            {
+              "question": "So fast _______ he run that I couldn't catch him.",
+              "blankIndex": 7,
+              "options": ["did", "does", "was", "had"],
+              "correctAnswer": "did",
+              "explanation": "So + 副词置于句首，助动词did前置"
+            },
+            {
+              "question": "Nor _______ I want to go.",
+              "blankIndex": 4,
+              "options": ["do", "did", "does", "am"],
+              "correctAnswer": "do",
+              "explanation": "Nor置于句首表示也不，一般现在时需倒装，助动词do前置"
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "type": "fill",
+              "question": "Neither _______ he agree to the plan.",
+              "options": ["does", "did", "is", "has"],
+              "correctAnswer": "does",
+              "explanation": "Neither置于句首表示也不，一般现在时需倒装，助动词does前置"
+            },
+            {
+              "type": "fill",
+              "question": "So loudly _______ she speak that everyone could hear.",
+              "options": ["did", "does", "was", "had"],
+              "correctAnswer": "did",
+              "explanation": "So + 副词置于句首，助动词did前置"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Level 8: as/though 让步倒装",
+          "description": "as/though 引导的让步状语从句倒装",
+          "knowledge": [
+            "形容词/副词/名词/动词 + as/though + 主语 + 谓语",
+            "表示虽然/尽管",
+            "前置部分通常不带冠词"
+          ],
+          "learningQuestions": [
+            {
+              "question": "Child as he _______ , he knows a lot.",
+              "blankIndex": 12,
+              "options": ["is", "was", "does", "has"],
+              "correctAnswer": "is",
+              "explanation": "名词 + as 引导让步状语从句，be动词后置"
+            },
+            {
+              "question": "Hard as he _______ , he failed the exam.",
+              "blankIndex": 12,
+              "options": ["tried", "tries", "try", "trying"],
+              "correctAnswer": "tried",
+              "explanation": "副词 + as 引导让步状语从句，动词后置"
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "type": "fill",
+              "question": "Young as he _______ , he is very wise.",
+              "options": ["is", "was", "be", "being"],
+              "correctAnswer": "is",
+              "explanation": "形容词 + as 引导让步状语从句，be动词后置"
+            },
+            {
+              "type": "translate",
+              "question": "翻译：尽管他很穷，但他很快乐。",
+              "options": [
+                "Poor as he is, he is happy.",
+                "As poor he is, he is happy.",
+                "Though he is poor, he is happy.",
+                "Poor though is he, he is happy."
+              ],
+              "correctAnswer": 0,
+              "explanation": "形容词 + as 引导让步状语从句，形容词前置"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Level 9: So/Such...that & May 祝愿",
+          "description": "So/Such...that 句型和祝愿句的倒装",
+          "knowledge": [
+            "So/Such 置于句首时，主句需部分倒装",
+            "May + 主语 + 动词原形 表示祝愿",
+            "May 置于句首"
+          ],
+          "learningQuestions": [
+            {
+              "question": "So excited _______ he that he couldn't sleep.",
+              "blankIndex": 11,
+              "options": ["was", "is", "did", "had"],
+              "correctAnswer": "was",
+              "explanation": "So + 形容词置于句首，be动词was前置"
+            },
+            {
+              "question": "May you _______ success!",
+              "blankIndex": 7,
+              "options": ["achieve", "achieved", "achieving", "achievement"],
+              "correctAnswer": "achieve",
+              "explanation": "May置于句首表示祝愿，动词用原形"
+            }
+          ],
+          "practiceQuestions": [
+            {
+              "type": "fill",
+              "question": "Such a good book _______ it that I read it twice.",
+              "options": ["is", "was", "did", "does"],
+              "correctAnswer": "is",
+              "explanation": "Such + 名词短语置于句首，be动词is前置"
+            },
+            {
+              "type": "translate",
+              "question": "翻译：祝你幸福！",
+              "options": [
+                "Wish you happy!",
+                "May you be happy!",
+                "Happy may you be!",
+                "You may be happy!"
+              ],
+              "correctAnswer": 1,
+              "explanation": "May置于句首表示祝愿"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "knowledgeBase": {
+    "完全倒装": {
+      "定义": "将整个谓语动词置于主语之前",
+      "常见结构": [
+        "There be 句型",
+        "Here/There/Now/Then + 动词 + 主语",
+        "表语置于句首（形容词/分词/介词短语）",
+        "地点副词置于句首"
+      ],
+      "注意事项": [
+        "主语必须是名词，代词不倒装",
+        "谓语动词通常是 be, come, go, stand, lie 等"
+      ]
+    },
+    "部分倒装": {
+      "定义": "仅将助动词、情态动词或be动词置于主语之前",
+      "常见结构": [
+        "否定副词句首（Never, Seldom, Not until等）",
+        "Only + 状语句首",
+        "So/Nor/Neither + 助动词 + 主语",
+        "虚拟语气省略if"
+      ],
+      "注意事项": [
+        "时态要与原句保持一致",
+        "从句不倒装，仅主句倒装"
+      ]
+    }
+  }
+}

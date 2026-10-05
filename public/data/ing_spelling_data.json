@@ -1,0 +1,100 @@
+{
+  "moduleName": "-ing拼写",
+  "knowledgePoints": [
+    {
+      "id": 1,
+      "title": "一、基本拼写规则",
+      "content": "动词-ing形式的基本拼写规则：",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "一般情况下",
+          "content": "直接在动词词尾加-ing\nwork → working, study → studying"
+        },
+        {
+          "id": 2,
+          "title": "以不发音的e结尾",
+          "content": "去e加-ing\ndance → dancing, make → making, write → writing"
+        },
+        {
+          "id": 3,
+          "title": "以重读闭音节结尾",
+          "content": "双写末尾辅音字母加-ing\nsit → sitting, run → running, swim → swimming"
+        },
+        {
+          "id": 4,
+          "title": "以ie结尾",
+          "content": "变ie为y加-ing\ndie → dying, lie → lying, tie → tying"
+        },
+        {
+          "id": 5,
+          "title": "以ie结尾",
+          "content": "去e加-ing\nsee → seeing, agree → agreeing"
+        },
+        {
+          "id": 6,
+          "title": "特殊变化",
+          "content": "travel → traveling/travelling（英式双写，美式不双写）\nquarrel → quarreling/quarrelling"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "The talented chef, who is well-known for his innovative dishes, is busy ______ (make) a special meal for the VIP guests tonight.",
+      "type": "fill",
+      "correctAnswer": "making",
+      "explanation": "以e结尾，去e加-ing"
+    },
+    {
+      "id": 2,
+      "question": "Having spent years ______ (study) migratory patterns, the biologist published a paper ______ (detail) how climate change disrupts bird navigation.",
+      "type": "fill",
+      "correctAnswer": "studying, detailing",
+      "explanation": "study以y结尾，直接加-ing；detail以l结尾，直接加-ing"
+    },
+    {
+      "id": 3,
+      "question": "After ______ (take) a long-awaited vacation, the hard-working businessman returned to the office, full of energy and ready to tackle new challenges.",
+      "type": "fill",
+      "correctAnswer": "taking",
+      "explanation": "take以e结尾，去e加-ing"
+    },
+    {
+      "id": 4,
+      "question": "Despite warning about the risks, the entrepreneur insisted on ______ (pursue) her controversial business model.",
+      "type": "fill",
+      "correctAnswer": "pursuing",
+      "explanation": "pursue以e结尾，去e加-ing"
+    },
+    {
+      "id": 5,
+      "question": "When I passed by the playground, I saw the athlete, who had won many championships, ______ (run) at a high speed, training for the upcoming important competition.",
+      "type": "fill",
+      "correctAnswer": "running",
+      "explanation": "run以重读闭音节结尾，双写n加-ing"
+    },
+    {
+      "id": 6,
+      "question": "Satellite networks, ______ (orbit) Earth continuously, play a crucial role in monitoring weather patterns.",
+      "type": "fill",
+      "correctAnswer": "orbiting",
+      "explanation": "orbit以t结尾，直接加-ing"
+    },
+    {
+      "id": 7,
+      "question": "The company, aiming to expand its market share, is ______ (plan) to transfer some of its key operations to a more strategic location.",
+      "type": "fill",
+      "correctAnswer": "planning",
+      "explanation": "plan以重读闭音节结尾，双写n加-ing"
+    },
+    {
+      "id": 8,
+      "question": "Just as we were discussing the marketing plan, the unexpected problem suddenly ______ (occur), forcing us to change our original strategy.",
+      "type": "fill",
+      "correctAnswer": "occurred",
+      "explanation": "一般过去时，以重读闭音节结尾，双写r加ed"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "moduleName": "定语从句过关",
+  "knowledgePoints": [
+    {
+      "id": 1,
+      "title": "一、定语从句的定义",
+      "content": "定语从句是在复合句中修饰名词或代词的从句，相当于形容词的作用。分为限制性和非限制性定语从句。",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "限制性定语从句",
+          "content": "对先行词起限定修饰作用，从句与主句之间没有逗号。\nHe is a teacher who works at our school."
+        },
+        {
+          "id": 2,
+          "title": "非限制性定语从句",
+          "content": "对先行词起补充说明作用，从句与主句之间有逗号隔开。\nBeijing, which is the capital of China, is a beautiful city."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "二、先行词与关系词",
+      "content": "先行词是被定语从句所修饰的名词或代词；关系词引导定语从句，包括关系代词和关系副词。",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "关系代词",
+          "content": "that, which, who, whom, whose, as\n关系代词在从句中作主语、宾语或定语"
+        },
+        {
+          "id": 2,
+          "title": "关系副词",
+          "content": "when, where, why\n关系副词在从句中作时间、地点、原因状语"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "三、that与which的区别",
+      "content": "在指代物时，that与which的用法区别",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "只能用which的情况",
+          "content": "1) 非限制性定语从句中\n2) 介词之后作宾语\n3) 先行词是that或从句中套从句，另一个用which"
+        },
+        {
+          "id": 2,
+          "title": "只能用that的情况",
+          "content": "1) 先行词是不定代词\n2) 先行词被all, every, no, some, little, much等修饰\n3) 先行词中既有人又有物\n4) 先行词被序数词或最高级修饰\n5) 从句中套从句"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "四、关系副词的用法",
+      "content": "关系副词在从句中作状语，相当于\"介词+关系代词\"",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "when",
+          "content": "先行词是表示时间的名词，when = on/in/at which\nI still remember the day when I first came to Beijing."
+        },
+        {
+          "id": 2,
+          "title": "where",
+          "content": "先行词是表示地点的名词，where = in/on/at which\nCan you tell me the office where he works?"
+        },
+        {
+          "id": 3,
+          "title": "why",
+          "content": "先行词是reason，why = for which\nI don't want to listen to any reason why you were absent."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "五、as引导的定语从句",
+      "content": "as可以引导限制性和非限制性定语从句",
+      "subPoints": [
+        {
+          "id": 1,
+          "title": "such...as...",
+          "content": "A computer is so useful a machine as we can use everyday."
+        },
+        {
+          "id": 2,
+          "title": "the same...as...",
+          "content": "He is not the same man as he was."
+        },
+        {
+          "id": 3,
+          "title": "as引导非限制性定语从句",
+          "content": "As is well known to all, fish can't live without water.\nAs I remember, there were a net bar here."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "question": "The book ______ I bought yesterday is very interesting.",
+      "type": "choice",
+      "options": ["which", "that", "who", "whom"],
+      "correctAnswer": "which",
+      "explanation": "先行词是book，指物，可以用which或that"
+    },
+    {
+      "id": 2,
+      "question": "He is the man ______ helped me yesterday.",
+      "type": "choice",
+      "options": ["which", "that", "whose", "whom"],
+      "correctAnswer": "that",
+      "explanation": "先行词是man，指人，在从句中作主语，用who或that"
+    },
+    {
+      "id": 3,
+      "question": "This is the best film ______ I have ever seen.",
+      "type": "choice",
+      "options": ["which", "that", "who", "whose"],
+      "correctAnswer": "that",
+      "explanation": "先行词被最高级修饰，只能用that"
+    },
+    {
+      "id": 4,
+      "question": "The house ______ windows are broken is mine.",
+      "type": "choice",
+      "options": ["which", "that", "whose", "whom"],
+      "correctAnswer": "whose",
+      "explanation": "表示房子的窗户，用whose作定语"
+    },
+    {
+      "id": 5,
+      "question": "I still remember the day ______ I first came to this school.",
+      "type": "choice",
+      "options": ["which", "that", "when", "where"],
+      "correctAnswer": "when",
+      "explanation": "先行词是day，表示时间，用when作时间状语"
+    },
+    {
+      "id": 6,
+      "question": "This is the factory ______ my father works.",
+      "type": "choice",
+      "options": ["which", "that", "where", "when"],
+      "correctAnswer": "where",
+      "explanation": "先行词是factory，表示地点，用where作地点状语"
+    },
+    {
+      "id": 7,
+      "question": "The reason ______ he was late is unknown.",
+      "type": "choice",
+      "options": ["which", "that", "why", "when"],
+      "correctAnswer": "why",
+      "explanation": "先行词是reason，用why作原因状语"
+    },
+    {
+      "id": 8,
+      "question": "He is such a kind teacher ______ we all love.",
+      "type": "choice",
+      "options": ["that", "as", "which", "who"],
+      "correctAnswer": "as",
+      "explanation": "such...as...结构，用as引导定语从句"
+    },
+    {
+      "id": 9,
+      "question": "______ is well known, China is a developing country.",
+      "type": "choice",
+      "options": ["Which", "That", "As", "What"],
+      "correctAnswer": "As",
+      "explanation": "as引导非限制性定语从句，位于句首"
+    },
+    {
+      "id": 10,
+      "question": "The pen ______ you write is Jack's.",
+      "type": "choice",
+      "options": ["with which", "which", "that", "what"],
+      "correctAnswer": "with which",
+      "explanation": "介词之后只能用which，表示用这支笔写"
+    }
+  ]
+}
